@@ -1,0 +1,16 @@
+{
+  "_note": "Which chapter each Word file became, so bringing the same file in again replaces the same chapter. Written by the Authoring Assistant and book-requests; keys are Word file names.",
+  "chapters": {
+    "Chapter_01.docx": "chapters/chapter-01.md",
+    "Chapter_02.docx": "chapters/chapter-02.md",
+    "Chapter_03.docx": "chapters/chapter-03.md",
+    "Chapter_04.docx": "chapters/chapter-04.md",
+    "Chapter_05.docx": "chapters/chapter-05.md",
+    "Chapter_06.docx": "chapters/chapter-06.md",
+    "Chapter_07.docx": "chapters/chapter-07.md",
+    "Chapter_08.docx": "chapters/chapter-08.md",
+    "Chapter_09.docx": "chapters/chapter-09.md",
+    "Chapter_10.docx": "chapters/chapter-10.md",
+    "Chapter_11.docx": "chapters/chapter-11.md"
+  }
+}
