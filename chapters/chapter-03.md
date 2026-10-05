@@ -1,5 +1,4 @@
 ---
-title: "Chapter 3: Reality and the Problem of Unobservables"
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
@@ -17,7 +16,7 @@ The chapter proceeds through five interconnected stages. It builds on the concep
 
 ## 3.2 Stratified Reality: The Three Domains and Monism
 
-3.2.1 From Dualism to Monism Through Stratification
+### 3.2.1 From Dualism to Monism Through Stratification
 
 This section is one of the places where critical realism becomes indispensable for understanding the conditions under which a social science is possible. Bhaskar’s critical realism resolves the Cartesian and Kantian problems through a distinctive move: rather than accepting dualism between knowable phenomena and unknowable noumena (Kant), or between mind and body (Descartes), critical realism proposes a **monist realist ontology** where reality is one substance (monism) but exists in stratified layers with different properties (stratification). This framework enables systematic investigation of unobservable mechanisms essential for social research while avoiding both empiricist reduction (collapsing reality to the observable) and Kantian dualism (treating noumena as forever inaccessible).
 
@@ -25,7 +24,7 @@ This section is one of the places where critical realism becomes indispensable f
 
 This monism does not collapse everything to one level (as empiricism collapses everything to observables, or as some idealisms collapse everything to ideas). Rather, critical realism argues that reality is stratified. This means it is organized into levels or domains that are ontologically continuous (part of one reality) but analytically distinguishable (requiring different investigative approaches). The three domains, the Empirical, Actual, and Real, constitute analytical distinctions within unified reality rather than separate ontological realms requiring mysterious bridges between them (Bhaskar, 1975, 1979).
 
-3.2.2 The Three Domains: Empirical, Actual, Real
+### 3.2.2 The Three Domains: Empirical, Actual, Real
 
 Understanding stratified reality requires careful examination of how the three domains relate while remaining analytically distinct. The domains are presented here from most accessible (Empirical) to most fundamental (Real), moving from what we can directly observe to what must exist for observations to be possible. This movement from Empirical to Real also maps onto the architecture of social research introduced in Chapter 2: the entities and mechanisms that social ontology identifies as existing in the social domain inhabit the Real, the events and processes that meta-theory and theory attempt to explain unfold in the Actual, and the empirical material that methods generate and analyse belongs to the Empirical domain. The three domains are therefore not a separate framework but a description of the depth structure of the intransitive dimension itself.
 
@@ -43,7 +42,7 @@ Understanding the Real domain requires recognising that mechanisms and structure
 
 It is important to be precise about the ontological status of each domain. All three domains are real in the sense that observations genuinely occur, events genuinely unfold, and mechanisms genuinely operate: none is illusory or merely constructed. However, they are not equally real in the same sense. Causal efficacy resides in the Real domain: it is the structures and mechanisms located there that possess the causal powers to generate events in the Actual domain and to make the observations of the Empirical domain possible. The Actual and Empirical domains are the products of causal powers exercised in the Real, not independent sources of causation. The causal arrow therefore runs from Real to Actual to Empirical, which is why adequate social explanation must move in the opposite direction, from observed patterns through actual events to the real mechanisms that generated them. This does not mean the relationship between domains is strictly one-directional in all theoretical frameworks. Depending on one’s social ontology and meta-theoretical commitments, feedback loops from the Actual or Empirical back into the Real are possible: social events and accumulated empirical patterns can under certain conditions transform the very structures and mechanisms that generated them. A strictly structuralist position, by contrast, would not admit such feedback, treating structures as the singular and unidirectional source of social causation. How one theorises these relationships between domains is therefore itself an ontological and meta-theoretical commitment, not a purely empirical question.
 
-3.2.3 Relationships Between Domains
+### 3.2.3 Relationships Between Domains
 
 The three domains are nested rather than separate. Real mechanisms generate Actual events (whether observed or not), and Actual events provide the phenomena we observe in the Empirical domain. But the relationship is not mechanical nor deterministic. Real mechanisms possess causal powers operating as tendencies that make certain outcomes possible without guaranteeing specific results. Whether these mechanisms actually generate particular events depends on contingent conditions, on whether mechanisms are activated, and on how different mechanisms interact when multiple causal powers operate simultaneously.
 
@@ -51,7 +50,7 @@ Consider how institutional selection mechanisms (Real domain) operate. These mec
 
 This layered understanding reveals why adequate social research must investigate all three domains. Empirical patterns document that inequality exists and provide crucial evidence requiring explanation. Actual events reveal how mechanisms operate in specific instances, showing the concrete processes through which structures generate effects. Real mechanisms provide explanations for why patterns persist, identifying the causal powers that generate systematic outcomes across varying circumstances. No single domain is more important than the others, and adequate understanding requires analysing how all three relate (Danermark et al., 2002).
 
-3.2.4 How Stratification Avoids Both Empiricism and Kantian Dualism
+### 3.2.4 How Stratification Avoids Both Empiricism and Kantian Dualism
 
 This stratified ontology resolves fundamental problems that plagued both empiricism and Kantian philosophy. Against empiricism, stratification shows why reducing science to observables proves inadequate: the Real domain contains unobservable structures and mechanisms that are nonetheless causally efficacious. Educational inequality cannot be explained simply by correlating observable variables. We need to identify underlying institutional mechanisms, cultural processes, and power relations that generate observable patterns. These mechanisms are real (they exist and have causal powers) even though we cannot observe them directly, and adequate explanation requires investigating them through their effects rather than limiting science to observable correlations (Bhaskar, 1975).
 
@@ -63,7 +62,7 @@ Before moving on, it is worth putting the distinctions introduced so far explici
 
 ## 3.3 The Problem of Unobservables in Social Research
 
-3.3.1 Why Unobservables Matter for Social Explanation
+### 3.3.1 Why Unobservables Matter for Social Explanation
 
 Scientific explanation has often been defined in terms of what can be directly observed, measured, and verified. Social phenomena, however, operate through entities and processes that cannot always be directly observed but are nonetheless real and causally significant for understanding how social life works. Institutional structures, cultural meanings, power relations, and collective identities all involve unobservable features that shape observable outcomes in ways that cannot be captured by focusing only on what we can directly measure. The problem of unobservables thus arises not because such entities are obscure or marginal, but because empiricist standards of explanation systematically exclude them. This creates a fundamental challenge: how can social research investigate entities and mechanisms that cannot be directly observed without abandoning scientific rigour or collapsing into unfalsifiable speculation?
 
@@ -75,7 +74,7 @@ This example illustrates why unobservables prove essential for adequate social e
 
 The classic parable of the blind-folded people and the elephant exemplifies the problem of unobservables. Each person touches a different part of the elephant and, based on that limited contact, forms a different conclusion about what the object is. One feels the trunk and thinks it is a rope; another touches the leg and believes it is a pillar; a third feels the side and concludes it is a wall. Each description is based on real contact with the object, yet none captures the elephant as a whole. In social research, a similar problem arises when explanation is restricted to what can be directly observed. Researchers may accurately describe specific behaviours, patterns, or outcomes, but still miss the underlying structures that connect them. Social reality, like the elephant, cannot be grasped all at once through isolated observations. Understanding it requires moving beyond partial perspectives toward an account of the unobservable structures and mechanisms that organise what we see.
 
-3.3.2 How Stratified Ontology Handles Unobservables
+### 3.3.2 How Stratified Ontology Handles Unobservables
 
 Critical realism’s stratified ontology provides a framework for investigating unobservables systematically by distinguishing what exists (Real domain) from what happens (Actual domain) and what we observe (Empirical domain). This distinction clarifies that unobservables are not unreal or mystical; instead they constitute aspects of reality that must be investigated through their effects rather than through direct observation. Understanding how this works requires examining the relationships between domains and the forms of inference that enable scientific investigation of unobservable mechanisms.
 
@@ -95,7 +94,7 @@ But Newton's metaphor also conceals a problem that becomes acute in the social s
 
 The major traditions of literature engagement in social science did not emerge simultaneously or in isolation from broader intellectual contexts. Each crystallized in response to particular pressures, practical, philosophical, and political, and each carries the marks of the historical moment in which it took shape. Recognizing this does not relativize the traditions or reduce them to mere period pieces; their analytical limitations are structural, not historical. But it does help to explain why each tradition has the particular shape it does, and why each found itself confronted with limitations it could not resolve on its own terms.
 
-3.4.1 The Positivist Literature Review
+### 3.4.1 The Positivist Literature Review
 
 The dominant tradition of systematic literature review in social science emerged from the positivist epistemological programme that shaped the discipline through much of the nineteenth and twentieth centuries. Positivism was itself a response to two developments: the remarkable success of the natural sciences in generating reliable, generalizable knowledge through systematic observation and experiment, and the aspiration of social theorists from Comte to Durkheim to place the study of society on an equally rigorous footing. If the natural world could be understood through the disciplined accumulation of observed regularities, then so, the argument went, could the social world. The literature review that followed from this aspiration treats existing research as a cumulative archive of empirical findings, each study contributing an increment of documented knowledge. The purpose of engagement is to synthesize those increments, identify where they converge on stable conclusions, and locate the gaps where sufficient evidence has not yet been accumulated. Meta-analysis represents the most technically refined expression of this approach, pooling results across studies through statistical aggregation to produce estimates of effect size with greater precision than any individual investigation could achieve (Cooper, 1998; Petticrew and Roberts, 2006). The underlying assumption is that with sufficient methodological rigour and enough studies, research converges progressively toward an accurate picture of how social phenomena work.
 
@@ -103,7 +102,7 @@ This approach handles certain tasks with genuine effectiveness. It is well suite
 
 In short, the positivist literature review is a powerful instrument for synthesis within a shared ontological framework, but it has no resources for identifying or addressing disagreements that originate at the level of ontological commitment rather than empirical evidence. When the standing point is already settled, it can tell you how high you have climbed; it cannot tell you whether you are standing in the right place.
 
-3.4.2 The Interpretivist Review
+### 3.4.2 The Interpretivist Review
 
 The interpretivist tradition crystallized in the latter half of the twentieth century, partly as a direct response to positivism's limitations and partly as an expression of broader intellectual currents, including hermeneutics, phenomenology, and symbolic interactionism, that had long insisted on the meaningfulness and irreducible particularity of social life. Where positivism sought to model social inquiry on the natural sciences, interpretivism argued that the social world is fundamentally different in character: its objects are meaning-laden, its phenomena are constituted through actors' interpretations, and adequate understanding requires grasping the frameworks through which participants make sense of their situation. The interpretivist review is concerned not with what studies have established as fact but with how different researchers have made sense of social phenomena through particular theoretical frameworks, cultural positions, and interpretive commitments. Rather than synthesizing findings toward a convergent picture, it maps the diversity of perspectives and the range of meanings that have been constructed around a phenomenon, attending to how knowledge is situated and how the frameworks researchers use shape what becomes visible (Lincoln and Guba, 1985; Schwandt, 2000).
 
@@ -111,7 +110,7 @@ Interpretivist engagement is well suited to tracing how the same phenomenon has 
 
 To return to Newton's image: the interpretivist review is well suited to describing the different positions from which different researchers have chosen to stand, and to taking seriously the insight that what one sees depends on where one stands. What it cannot do is assess whether any of those positions offers a more adequate perspective on what is actually there to be seen.
 
-3.4.3 Immanent Critique
+### 3.4.3 Immanent Critique
 
 Immanent critique, rooted in the Hegelian and Marxist traditions, represents a different kind of engagement with existing work, one that arose not from dissatisfaction with positivism's methods but from a philosophical commitment to the internal development of thought as the primary mode of critique. Rather than synthesizing findings or mapping interpretive diversity, immanent critique evaluates a theoretical framework against its own stated commitments, demonstrating internal contradictions that the framework cannot resolve without abandoning its own premises. Marx's engagement with classical political economy is the paradigmatic case: by accepting the categories of classical economics and tracing their internal logic rigorously, Marx showed that the framework generates conclusions it cannot accommodate on its own terms (Marx, 1867/1976; Hegel, 1807/1977; Bhaskar, 1993). The strength of immanent critique is that it does not impose external evaluative standards but holds a framework to account for what it has itself committed to. This internal orientation is also, however, its limit from a realist standpoint: a framework evaluated only against its own commitments may be internally coherent while remaining entirely insulated from the question of whether those commitments correspond to anything in an independently existing social reality. Immanent critique can expose what a framework contradicts within its own terms; it cannot establish what that framework fails to reach beyond them. It is also well suited to identifying the ideological functions that theoretical frameworks can serve, namely how inconsistencies or silences within a framework correspond to interests it protects.
 
@@ -119,7 +118,7 @@ What immanent critique handles less well is precisely the situation that most co
 
 Put differently, immanent critique can tell you when a framework has failed to live up to what it promised. It cannot tell you what the framework was constitutively unable to see, regardless of how faithfully it was applied. A framework may be internally consistent and still constitutively blind to significant dimensions of what exists.
 
-3.4.4 Genealogy
+### 3.4.4 Genealogy
 
 Genealogy, associated most closely with the work of Foucault in the 1970s and 1980s, emerged from a quite different intellectual context: the post-structuralist critique of both Enlightenment progressivism and Marxist teleology, and the diagnosis of knowledge itself as a site of power. Rather than asking how well a framework has accomplished its stated aims, genealogy asks how the framework came to define its aims in the way it did, and what historical contingencies, institutional arrangements, and relations of power produced it as authoritative. The genealogical method traces how concepts, categories, and forms of knowledge came to be established as legitimate, showing that what appears natural or necessary is the outcome of specific historical processes involving exclusions and contestations that could have developed otherwise (Foucault, 1977; 1980). The strength of genealogy lies in exposing how research traditions normalize particular questions while rendering others unaskable, and in destabilizing the apparent naturalness of prevailing categories.
 
@@ -127,7 +126,7 @@ Because genealogy deliberately suspends the question of whether any knowledge cl
 
 The genealogical tradition is, in this sense, the most radical departure from Newton's image. It does not ask whether we are standing in the right place or seeing further than our predecessors; it questions whether the very idea of a right place or a further view is anything other than a contingent historical effect. This is a powerful critical move, but it comes at a cost: by suspending the question of correspondence to an independent reality, genealogy also suspends the capacity to assess what any given ontological position enables and forecloses with respect to that reality. It can show how a framework came to occupy the ground it stands on; it cannot assess whether that ground gives access to what actually exists.
 
-3.4.5 Ontological Situating as the Next Step
+### 3.4.5 Ontological Situating as the Next Step
 
 What this survey reveals, taken together, is a progressive expansion in what engagement with existing research is understood to accomplish. Each tradition can do something important that the others cannot: the positivist review at synthesizing empirical regularities, the interpretivist review at mapping theoretical diversity, immanent critique at exposing internal contradictions, genealogy at revealing the historical and political conditions of knowledge production. The recurring limitation across all four is that none provides a systematic procedure for identifying what any given research position cannot reach by virtue of its ontological commitments. When existing research produces contradictory findings, maps diverse interpretations, generates internal tensions, or normalizes certain questions, all of these may reflect underlying ontological commitments about what kind of thing is being studied, what relationship holds between observable phenomena and their conditions of existence, and what kinds of causal claims are appropriate. None of the four traditions, on its own terms, has a procedure for making those commitments the primary object of analysis. That is what ontological situating provides.
 
@@ -139,7 +138,7 @@ Ontological situating applies to both existing research and the self-positioning
 
 ## 3.5 Social Ontology and the Four Ontological Debates
 
-3.5.1 The Distinctive Challenge of Social Ontology
+### 3.5.1 The Distinctive Challenge of Social Ontology
 
 Social ontology examines what exists in social reality and how different levels relate. But it also faces distinctive challenges because social reality is complex, contested, conceptually mediated, and exists only through ongoing human activity. Social ontology needs sophisticated frameworks precisely because of social reality’s complexity, which establishes why the ontological analysis developed through this book proves essential for adequate social research. The following chapters develop detailed examination of the four fundamental debates that emerge from core features of social ontology requiring systematic analysis (Bhaskar, 1979; Archer, 1995).
 
@@ -159,7 +158,7 @@ Critical realism resolves this by distinguishing the intransitive dimension (soc
 
 But investigation proceeds through the transitive dimension where theories develop historically: we progressively understand institutional mechanisms better as research accumulates, earlier frameworks get refined or replaced, new insights emerge from ongoing investigation. The complexity of social reality makes ontological analysis harder but more necessary: without ontology distinguishing what exists from what we know, research collapses into relativism where competing theories become incommensurable (no way to compare or evaluate them) or into instrumentalism where theoretical concepts are merely useful fictions (having no referent in independent reality) (Bhaskar, 1979).
 
-3.5.2 Four Ontological Debates in Social Research
+### 3.5.2 Four Ontological Debates in Social Research
 
 The features of social ontology identified in section 3.5.1 generate four fundamental debates that structure the analysis developed in this textbook. These debates are not merely theoretical disagreements about how best to explain particular phenomena; they are ontological disagreements about what kinds of things exist in the social domain, what properties they possess, and how they relate to one another. Each debate arises because the complexity, emergence, conceptual mediation, and reflexivity of social reality make it genuinely unclear how certain foundational questions should be resolved, and different answers carry different implications for every level of the architecture introduced in section 3.2. The debates are introduced briefly here and developed in full in Chapters 5 through 8.
 

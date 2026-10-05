@@ -1,9 +1,9 @@
 ---
-title: "Chapter 10: Designing Ontologically-Informed Research"
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
 # Chapter 10: Designing Ontologically-Informed Research
+
 ## 10.1 Introduction: Aligning Research with the Architecture of Social Reality
 
 The guiding image for this chapter is the one introduced through the trench and library stacks metaphors in Chapter 4 and revisited in Chapter 9. Research design is the practical problem of aligning a specific inquiry with the architecture of social reality: of moving from something the researcher notices, finds puzzling, or identifies as requiring explanation, through a succession of analytical decisions that progressively specify the object, reach the relevant depth in the trench, and navigate the library stacks toward the theoretical resources adequate to what is at that depth. Each stage of the design process is a stage in that alignment, and each decision must be governed by what the investigation must be capable of reaching.
@@ -18,7 +18,7 @@ This chapter develops a guide through six sections: moving from topic to researc
 
 ## 10.2 From Topic to Research Problem to Research Question
 
-10.2.1 Topics and Their Limits
+### 10.2.1 Topics and Their Limits
 
 The transition from topic to research problem is simultaneously a move from a thematic interest to an ontological specification of the trench. The topic names a domain; the problem identifies what aspect of that domain is causally constituted in a way that existing research cannot reach, and at what depth in the trench the investigation must operate. The four social ontological debates provide the vocabulary for this identification: each debate names a dimension of social causation, and the research problem is most precisely stated by identifying which dimensions the dominant literature has foreclosed and why the phenomena under investigation require access to those dimensions.
 
@@ -34,7 +34,7 @@ The refined problem asks: "Through what social processes do coastal communities 
 
 This ontological positioning proves consequential for how the investigation proceeds. If you adopt individualist positions whereby you treat collective capacity as aggregated individual responses, your investigation focuses on what individuals decide and do, thus treating community-level outcomes as sums of individual actions. If you adopt collectivist positions treating capacities as emergent properties, the investigation focuses on how the collective organization shapes what becomes possible for any one specific individual, and examining mechanisms through which communities as entities develop properties irreducible to individual characteristics. The research problem thus connects immediately to meta-theoretical debates about what exists (ontology), while recognizing that an answer about the intransitive dimension requires systematic investigation through literature engagement and empirical inquiry. Both the intransitive dimension (what exists, so individual actions, collective properties, or both) and our transitive knowledge (how existing research has theorized these phenomena) must be examined to develop adequate understanding.
 
-10.2.2 Constituting the Research Problem
+### 10.2.2 Constituting the Research Problem
 
 Effective research problems identify what specifically requires explanation rather than simply describing phenomena, and this explanatory orientation necessarily engages the four ontological debates. Consider how each debate shapes problem formulation. The individuals-groups debate determines whether your problem concerns how individual actions generate collective outcomes (requiring explanation of emergence or aggregation mechanisms) or how collective arrangements shape individual possibilities (requiring explanation of constraint and enablement mechanisms). The structure-agency debate determines whether your problem concerns how structural arrangements determine outcomes (requiring specification of causal mechanisms operating independently of consciousness) or how agents' reflexive responses mediate structural effects (requiring investigation of interpretive processes and strategic action). The material-ideational debate determines whether your problem concerns how material conditions constrain possibilities (requiring analysis of resource distributions and physical arrangements) or how cultural meanings shape engagement with material conditions (requiring investigation of interpretive frameworks and symbolic systems). The transcendence-immanence debate determines whether your problem concerns general mechanisms operating across contexts (requiring demonstration of how mechanisms transcend particularity) or context-specific processes (requiring detailed specification of how contextual factors shape outcomes).
 
@@ -46,9 +46,9 @@ The research problem thus operates as a hinge between your initial curiosity abo
 
 **At this stage, what you need to do practically is:** articulate what puzzles you about your topic in specific terms rather than general descriptions, identify what aspects of social reality would need to be understood to resolve the puzzle, and prepare to refine your problem through systematic literature engagement.
 
-10.2.3 Forming the Research Question
+### 10.2.3 Forming the Research Question
 
-10.2.3.1 How Questions Emerge from Problems and Situating
+#### 10.2.3.1 How Questions Emerge from Problems and Situating
 
 Research questions emerge through synthesis of your research problem, your ontological situating revealing how research has positioned itself, and your positioning choices determining what you can investigate given ontological commitments. This synthesis requires judgment about what aspects of broad problems can be addressed through systematic investigation and what questions enable contributions while maintaining ontological coherence with your theoretical framework.
 
@@ -64,7 +64,7 @@ The synthesis generating questions requires careful attention to what your posit
 
 **Practically at this stage:** draft multiple potential questions reflecting your positioning, evaluate each question against the four organizational dimensions to assess coherence and tractability, and select primary and secondary questions that together address your research problem while remaining investigable given your theoretical framework and practical constraints.
 
-10.2.3.2 What Makes a Research Question Answerable
+#### 10.2.3.2 What Makes a Research Question Answerable
 
 Research questions must satisfy criteria ensuring they can guide systematic investigation while maintaining ontological coherence. First and most importantly, questions must have appropriate scope matching what requires understanding to address your problem. A question about global restructuring's effects on worldwide labor markets proves too broad and needs to specify particular dimensions of restructuring (manufacturing automation, service sector expansion), particular labor segments (mid-career workers, young people entering employment), and particular contexts (postindustrial regions, emerging economies). However, scope decisions should not be driven by pragmatic constraints about what proves easy to investigate. Rather, first determine what scope is a necessary reduction of reality to still hold authority to adequately address your problem, and then consider how to investigate that scope given practical constraints.
 
@@ -82,7 +82,7 @@ The iterative relationship between problem, situating, positioning, and question
 
 ## 10.3 The Three Pathways of Ontologically-Informed Research
 
-10.3.1 Situating, Extracting, and Investigating
+### 10.3.1 Situating, Extracting, and Investigating
 
 Once the researcher has stated a research problem, established an ontological position, formed research questions that flow from that positioning, and constructed a theoretical framework, a consequential question arises about what the project requires in terms of the primary mode of work. Three distinct modes of engagement can be distinguished. The first is situating: reading the existing literature analytically to map its ontological commitments, establish what each position enables and forecloses, and identify the structural gap that the researcher's positioning is designed to address. The second is content extraction: reading the literature from within a defined ontological position to draw out what it can contribute to the substantive specification of the theoretical framework. The third is original empirical investigation: generating evidence about aspects of social reality that no existing position, working from within its own ontological commitments, has been able to reach. These three modes correspond to the three pathways a research project may follow.
 
@@ -92,13 +92,13 @@ A full research project requires all three pathways, or at minimum the first two
 
 For student projects working within constraints of time and scope, the three-pathway structure provides a principled basis for calibration. A student project can engage all three pathways at reduced depth, or it can focus on one or two pathways while indicating how the remaining pathway would proceed in a full project. The empirical pathway is optional in the sense that it may not be required depending on what the situating and extraction exercises reveal, and for student projects it is the pathway most commonly addressed in limited form. A project that situates the field carefully, constructs a theoretically grounded framework, and then conducts a bounded investigation of one aspect of the identified gap preserves the intellectual architecture of a full project while remaining feasible. What matters is that the student engages the full logic of the approach, not that each pathway is pursued to exhaustive depth.
 
-10.3.2 The Situating Pathway
+### 10.3.2 The Situating Pathway
 
 When the situating pathway is primary, the project is organised around the analytical work of mapping the ontological terrain of the existing field and establishing a position within it. The existing literature is read for its ontological commitments, asking what each work takes to be real and causally efficacious, where it sits within each of the four debates. The result is a structured argument about the state of the field: how existing research is distributed across the terrain of the debates, where the structural gaps are, and why those gaps cannot be addressed from within the currently occupied positions.
 
 Analytically, the situating researcher is navigating the library stacks. The stacks are not navigated randomly or exhaustively: the researcher moves through them with a working hypothesis about the real object and the depth at which it must be engaged. The relevant question for each section of the stacks is not simply what it contains but where it is located relative to the real object: what ontological position does it occupy, what depth in the trench does its framework enable it to reach, and what does that position systematically foreclose. The structural gaps that the situating exercise is designed to identify correspond to depths in the trench that the existing literature, given its current distribution across ontological positions, has not been able to reach. Establishing a position within the field is therefore simultaneously establishing where the researcher proposes to stand in relation to the trench: what depth the investigation will operate at, and why the existing distribution of the literature makes that depth both necessary and inadequately addressed.
 
-**10.3.2.1 Ontological Situating as Analytical Practice**
+#### 10.3.2.1 Ontological Situating as Analytical Practice
 
 Having developed a research problem, you must engage existing scholarship to understand how research has addressed your problem and what meta-theoretical frameworks structure existing understanding. Traditional literature review synthesizes findings and catalogs methods, but ontological situating transforms literature engagement into active analytical positioning through systematic examination of meta-theoretical frameworks.
 
@@ -138,21 +138,21 @@ Your choices about positioning should not be driven purely by identifying gaps�
 
 **By this stage, through iterative movement between problem formulation and literature situating, you should have**: refined understanding of what your research must investigate, clear positioning regarding which debates your problem engages and how you position yourself within them, documented understanding of what existing research has accomplished from different positions and what remains inadequately addressed, and preliminary sense of what theoretical resources you can mobilize versus what conceptual development your investigation requires. Your research problem has become fuller and clearer as you've uncovered what needs to be known and how existing knowledge positions itself regarding what you're investigating. This provides foundation for crystallizing answerable research questions.
 
-10.3.3 The Content Extraction Pathway
+### 10.3.3 The Content Extraction Pathway
 
 Content extraction reads the existing literature from a defined ontological position, asking what it can contribute to the substantive specification of the theoretical framework. The researcher takes the content of existing studies out of the analytical framework in which it was originally generated and places it within a different framework, determined by the researcher's own positioning. Studies produced within one position may contain evidence or theoretical specifications that a different positioning can reinterpret and incorporate. The criteria for incorporation are the criteria of the researcher's framework, not the criteria of the framework from which the original research proceeded.
 
-10.3.4 The Empirical Pathway
+### 10.3.4 The Empirical Pathway
 
 Original empirical investigation becomes necessary when the situating and extraction exercises together identify aspects of social reality that no existing body of evidence is adequate to address. The framework generates theoretical expectations about the mechanisms operative in the domain and the conditions under which they should manifest in observable processes and outcomes. The empirical investigation is designed to access evidence that bears on those theoretical expectations. This is retroductive reasoning in the sense developed by Bhaskar (1979) and elaborated by Sayer (2000) and Danermark et al. (2002): the movement from observed patterns and processes to the mechanisms that could have generated them, conducted through theoretical argument and evidential warrant rather than through probabilistic inference.
 
-10.3.5 Iterative Movement
+### 10.3.5 Iterative Movement
 
 The movement across the pathways is typically iterative rather than linear. The situating exercise may reveal that the initial theoretical framework requires revision. The extraction exercise may reveal that the theoretical framework needs to be specified in a direction the researcher had not anticipated, generating new requirements for the situating exercise. The empirical investigation may yield findings that revise the theoretical framework in ways that require revisiting what the existing literature can contribute. This iterative movement is not a failure of planning but a consequence of the researcher engaging seriously with what the literature and the phenomena can show. The coherence among the stages must be maintained through the iterations: the situating must ground the positioning, the positioning must govern the framework, the framework must guide the extraction, and the extraction must reveal where empirical investigation is required and what it needs to accomplish.
 
 ## 10.4 Constructing the Theoretical Framework
 
-10.4.1 What Theoretical Frameworks Must Accomplish
+### 10.4.1 What Theoretical Frameworks Must Accomplish
 
 Having developed answerable questions grounded in problem formulation and informed by situating, you must articulate theoretical frameworks specifying what exists in the intransitive dimension relevant to your questions and how those existents relate causally. Theoretical frameworks make explicit your ontological positioning across the four debates and their implications. However, this positioning alone proves insufficient and theory must also specify substantive mechanisms, relationships, and processes operating in your domain.
 
@@ -168,7 +168,7 @@ Theory must demonstrate coherence across meta-theoretical debates through examin
 
 **Practically at this stage:** articulate your meta-theoretical positioning explicitly across each relevant debate, specify substantive mechanisms operating in your research domain that reflect and operationalize your meta-theoretical commitments, show how these mechanisms connect to answer your research questions, and evaluate coherence across debates using the four analytical tools (established in Chapter 11).
 
-10.4.2 Connecting Meta-Theory, Substantive Theory, and Research Questions
+### 10.4.2 Connecting Meta-Theory, Substantive Theory, and Research Questions
 
 Begin by establishing meta-theoretical foundations explicitly. If you've adopted critical realist positions combining emergentist collectivism with analytical dualism regarding structure-agency, state this clearly and explain why this positioning enables addressing your research questions while representing reality adequately. If you've adopted material-ideational integration, specify your integration strategy—whether dialectical (material conditions and cultural meanings co-constitute each other continuously), analytical (they can be separated for investigation while recognizing interaction), or interactive (they operate as distinct but causally related domains). These meta-theoretical specifications establish the framework within which substantive theory operates.
 
@@ -184,7 +184,7 @@ For community adaptation research, connection between meta-theory, substantive t
 
 This explicit connection ensures readers understand precisely how your theoretical framework enables addressing your research questions and contributing to your broader research problem, while also showing how your investigation will represent the intransitive dimension more adequately than existing approaches that remain confined to particular poles or fail to specify integration mechanisms.
 
-10.4.3 Integration Strategies for Middle-Ground Positions
+### 10.4.3 Integration Strategies for Middle-Ground Positions
 
 If you adopt middle-ground positions integrating insights from different poles, your framework faces distinctive demands. Integration requires explaining both poles rather than taking either as given. Several integration strategies exist, each involving different ontological commitments and methodological implications. Understanding these strategies helps articulate coherent integration rather than claiming "both poles matter" without specification.
 
@@ -198,7 +198,7 @@ Conflationary synthesis (Giddens' structuration) achieves integration by refusin
 
 Choosing between strategies requires assessing which enables addressing your questions while maintaining coherence and representing reality adequately. Regardless of strategy, your framework must explain how integration operates through explicit mechanisms rather than asserting that poles interact. Organizational dimensions help evaluate whether integration genuinely achieves synthesis or privileges one pole while rhetorically acknowledging the other.
 
-10.4.4 Common Problems and How to Address Them
+### 10.4.4 Common Problems and How to Address Them
 
 Several common problems appear when articulating frameworks. Rhetorical integration without specification occurs when research claims integration but fails to articulate mechanisms. Addressing this requires specifying integration mechanisms using strategies from Section 10.4.3, showing how your chosen strategy operates through particular processes.
 
@@ -212,7 +212,7 @@ Inadequate mechanism specification appears when theory claims causal relationshi
 
 ## 10.5 From Framework to Methodology and Methods
 
-10.5.1 How Methodology Flows from Theory
+### 10.5.1 How Methodology Flows from Theory
 
 Having articulated theoretical frameworks specifying what exists, you must justify methodology—your general investigative strategy—by showing how it flows from theoretical claims about what exists (ontology) and epistemological understanding of how we can know what exists. Understanding the relationship between theory, epistemology, methodology, and methods requires distinguishing these levels clearly while recognizing their necessary connections.
 
@@ -230,7 +230,7 @@ If theory claims meanings constitute part of mechanism operation, meaning that a
 
 Organizational dimensions clarify methodological requirements flowing from theoretical frameworks. Ontology/epistemology indicates whether you're investigating intransitive dimension (what exists independently) or transitive dimension (our knowledge), and whether you maintain their distinction or collapse into epistemic fallacy. Empirical stratification specifies whether you investigate Real domain mechanisms, Actual domain events, or Empirical domain patterns. Time/space indicates whether methodology must enable observing temporal sequences, recognizing spatial constitution, or both. Causality specifies whether you're investigating possessed powers, exercised powers, or outcomes.
 
-10.5.2 Identifying Methodological Requirements from Ontological Positioning
+### 10.5.2 Identifying Methodological Requirements from Ontological Positioning
 
 To identify what methodological strategies your positioning requires, systematically examine how your framework positions itself across organizational dimensions. For educational inequality adopting structure-agency integration through analytical dualism, ontology/epistemology requires methodology enabling investigation of both structural arrangements and agential processes as analytically distinct while recognizing interaction over time. This means epistemology must enable accessing both objective organizational patterns that exist independently of actors and subjective interpretive processes through which agents experience and respond to those patterns.
 
@@ -244,7 +244,7 @@ Working through dimensions systematically identifies required strategies. This e
 
 **At this stage you should have:** a clear understanding of whether your positioning requires intensive versus extensive research, longitudinal versus cross-sectional design, retroductive versus inductive reasoning, qualitative versus quantitative evidence, and what combinations prove necessary. These methodological requirements directly shape method selection. The work done in research design—articulating ontological commitments, specifying theoretical mechanisms, and identifying methodological requirements—should make the empirical question clearer. Depending on how design is conceptualized given your ontological position, what needs to be investigated empirically becomes more precisely specified. If you've theorized that tracking activates or suppresses capabilities through peer interaction and teacher expectations, your empirical question becomes: how do peer interaction patterns and teacher expectations operate within tracked classes, and how do students with different forms of capital experience and respond to these mechanisms?
 
-10.5.3 Methods as Techniques to Implement Methodology
+### 10.5.3 Methods as Techniques to Implement Methodology
 
 Having identified methodological requirements from your ontological positioning and epistemological understanding, select specific methods—concrete techniques implementing your methodological strategy while respecting practical constraints. Methods are not synonymous with methodology: **Methodology** concerns general strategies (intensive versus extensive, longitudinal versus cross-sectional, retroductive versus inductive reasoning), while **Methods** are specific techniques (semi-structured interviews, participant observation, regression analysis, content coding). Methods implement methodological strategies through their specific practice.
 
@@ -258,7 +258,7 @@ However, different methodological strategies can be implemented through differen
 
 Proper investigation often requires multiple methods operating together. However, integration requires ensuring combined methods remain compatible with positioning rather than accumulating diverse data without coherent framework. Ethics, reflexivity, validity, reliability, and other protocols will be governed by the norms and standards of specific methods you employ, detailed in Chapters 12-13.
 
-10.5.4 Addressing Practical Constraints
+### 10.5.4 Addressing Practical Constraints
 
 Practical constraints inevitably affect research design but should be addressed after establishing what investigation your positioning requires. Resource limitations, access restrictions, time pressures, ethical considerations, and capability boundaries shape what can feasibly be accomplished. The sequence matters: first establish what exists and requires investigation (ontology/theory), then determine how we can know about it (epistemology), then identify what investigative strategies this requires (methodology), then select techniques implementing strategies (methods), and only then address how practical constraints shape what can be accomplished within established framework.
 
@@ -268,7 +268,7 @@ Organizational dimensions help evaluate whether adaptations maintain methodologi
 
 Carefully designed adaptations maintaining coherence while working within constraints can generate valuable investigations. The requirement is that adaptations remain informed by ontological and epistemological commitments rather than driving them. Throughout design, practical constraints serve as parameters within which investigation proceeds rather than as determinants of commitments. The work done in research design by articulating ontology, specifying mechanisms, and identifying methodological requirements should clarify what empirical investigation must accomplish, making the empirical question more precise and tractable rather than leaving it vague and dependent on methodological convenience.
 
-10.5.5 Alternative Ontological Positions and Their Implications
+### 10.5.5 Alternative Ontological Positions and Their Implications
 
 Different ontological positions generate different methodological requirements and different understandings of what constitutes adequate investigation. Recognizing this variation helps clarify why your positioning privileges some methodological approaches while understanding how alternative positions would proceed differently. These differences are not merely technical preferences but reflect fundamental commitments about what exists and how we can know it.
 
@@ -300,7 +300,7 @@ However, ontologically-informed design does not provide mechanical templates, bu
 
 **By this stage, you have developed comprehensive research design** specifying what you'll investigate, why it matters, where your investigation contributes, what ontological commitments guide your work, what theoretical frameworks specify mechanisms, what epistemological understanding shapes your approach to knowledge, what methodological strategies enable investigation, and what methods implement those strategies. This design provides architecture for investigation, ensuring coherence from initial curiosity through final analysis.
 
-# References
+## References
 
 Archer, M. S. (1995). Realist Social Theory: The Morphogenetic Approach. Cambridge University Press.
 

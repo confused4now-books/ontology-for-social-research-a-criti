@@ -1,5 +1,4 @@
 ---
-title: "Chapter 9: Time, Space, and Reduction in Social Research"
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
@@ -17,7 +16,7 @@ This chapter examines three dimensions of social research that cut across the fo
 
 ## 9.2 The Ontology of Time
 
-9.2.1 Presentism versus Eternalism
+### 9.2.1 Presentism versus Eternalism
 
 Philosophers have developed fundamentally different views on what time really is, and these views strongly influence how we study social reality:
 
@@ -39,7 +38,7 @@ Historical analysis becomes relevant primarily for understanding how present con
 
 Eternalist frameworks align with approaches emphasizing structural persistence, historical causation, and how past arrangements continue operating within present conditions. If all temporal moments exist equally, then past institutional arrangements, historical power relations, and earlier social processes remain real and can exercise causal influence despite being temporally distant from current observations. This perspective informs structuralist approaches examining how historical processes become embedded within contemporary structures, how path dependencies constrain present possibilities, and how past exclusions continue shaping current outcomes through mechanisms that persist across time.
 
-9.2.2 Persistence: Endurance or Perdurance? Structure or Agency?
+### 9.2.2 Persistence: Endurance or Perdurance? Structure or Agency?
 
 The debate between Presentism and Eternalism generates distinct accounts of persistence – that is how things remain the same, and keep their identity over time, despite change. **Endurance** asserts that objects persist (endure) by existing wholly at each moment of their existence. **Perdurance**, by contrast, holds that objects persist by having different temporal parts at different times (with the complete object being the sum of all these various temporal parts throughout its existence) (Sider, 2001).
 
@@ -53,7 +52,7 @@ Endurance is often associated with Presentism, since if only the present exists,
 
 These different accounts of persistence carry implications for research orientation, though the relationship is one of elective affinity rather than logical entailment. Sider (2001) himself notes that endurance and perdurance are not strictly tied to Presentism and Eternalism respectively; the combinations are contingent rather than necessary. Nevertheless, the affinities are real and consequential. Where endurance frames the identity of social actors and institutions as wholly present at each moment of their existence, causal explanation is naturally drawn toward the present configuration of that entity: its current beliefs, dispositions, and relations with others. Research traditions that foreground reflexivity, interpretation, and lived experience rest implicitly on this understanding, locating the locus of social causation in acts of meaning-making and decision that unfold in the present rather than in processes distributed across time (Giddens, 1984). Where perdurance instead frames social entities as extended across time and composed of successive temporal parts, the present state of an institution or practice appears as one segment of a longer trajectory rather than as a self-sufficient whole. Explanation is accordingly oriented toward the historical accumulation of constraints, resources, and rules whose current configuration cannot be understood without tracing the developmental path through which it was produced (Pierson, 2004; Mahoney and Thelen, 2010). The point is not that endurance logically commits researchers to agency-centred methods or that perdurance logically commits them to structural-historical ones. Rather, each ontological picture makes certain explanatory strategies more natural and others more demanding, subtly shaping the questions that seem most urgent and the evidence that seems most adequate.
 
-9.2.3 Integration Through Stratified Temporal Ontology
+### 9.2.3 Integration Through Stratified Temporal Ontology
 
 The preceding discussion of endurance and perdurance showed that temporal ontology directly shapes how we understand the relation between agency and structure. The alignment between views of time (Presentism/Eternalism), views of persistence (endurance/perdurance), and research orientations further demonstrates how deeper ontological commitments shape research practice. Methodological differences are not merely technical preferences; they often reflect underlying assumptions about how social reality exists and persists over time.
 
@@ -65,7 +64,7 @@ From a stratified perspective, temporal reality therefore includes both present 
 
 ## 9.3 The Ontology of Space
 
-9.3.1 Absolute and Relative Space
+### 9.3.1 Absolute and Relative Space
 
 Just as the ontology of time involves fundamental debates about whether time flows or remains fixed, the ontology of space raises equally fundamental questions about the nature of space itself. The concept of **absolute space** holds that space exists as an independent container with its own properties, prior to and independent of objects located within it. Space has an objective structure (e.g., distances, directions, locations) that would exist even if nothing occupied it. Historically associated with Newton’s physics, this view treats space as a fixed framework within which objects move and interact. Newtonian mechanics relied on an absolute space account for phenomena such as acceleration and rotation: An object accelerates or rotates relative to space itself, not merely relative to other objects (Newton, 1687/1999).
 
@@ -85,7 +84,7 @@ A concrete example of spatial specificity comes from development economics. The 
 
 Rather than treating these positions as mutually exclusive, the following section proposes that the tension can be resolved by recognizing that different aspects of space operate at different levels of reality. Just as critical realism resolves temporal tensions through stratified ontology a similar resolution proves possible for spatial debates.
 
-9.3.2 Integration Through Stratified Ontology
+### 9.3.2 Integration Through Stratified Ontology
 
 The apparent tension between absolute and relative space does not admit of a single resolution, but it can be understood through the recognition that spatial arrangements operate simultaneously at different levels of analysis. This is not a move unique to any one theoretical tradition. Structuration theory holds that spatial structures are both the medium and the outcome of social practices, neither reducible to fixed material constraints nor to momentary social interaction alone (Giddens, 1984). Historical institutionalism similarly treats spatial configurations as path-dependent accumulations that constrain present action without being entirely independent of it (Pierson, 2004). Critical realism addresses the same tension by distinguishing between the relatively stable causal powers of spatial arrangements and the social processes through which those powers are produced and reproduced, insisting that neither dimension can be collapsed into the other (Bhaskar, 1975; Sayer, 2000). What these approaches share is the insight that spatial reality has both relatively stable properties, capable of exercising causal influence across time, and socially produced dimensions, continuously reproduced and potentially transformed through practice. Once established, spatial arrangements such as urban concentrations, jurisdictional boundaries, or infrastructural networks can shape economic possibilities and institutional authority in ways that persist beyond the particular interactions that produced them, yet they remain dependent on ongoing social processes of investment, governance, and interpretation for their continued effectiveness (Massey, 1993). Frameworks of absolute and relative space are therefore not mutually exclusive; they attend to different aspects of the same spatial reality, and adequate explanation requires holding both in view rather than treating one as foundational and the other as derivative.
 
@@ -159,7 +158,7 @@ In practice many research questions require combining synchronic and diachronic 
 
 Having examined the ontologies of time and space and the methodological distinction between synchronic and diachronic analysis, we can now examine how critical realist ontology integrates the two. **Bhaskar's (1993) four modes of the presence of the past** show how historical processes remain active within the present. The past does not simply precede the present; it persists within it. Acknowledging a stratified ontology, synchronic analysis (examining present-moment relationships) and diachronic analysis (tracing historical development) can be integrated without reducing either to the other. This framework resolves earlier encountered tensions by clarifying how structures perdure across time, while simultaneously enduring in present configurations, and how agency operates within historically constituted structures.
 
-9.5.1 Existential Constitution
+### 9.5.1 Existential Constitution
 
 **Existential constitution** refers to the way historical development of entities becomes constitutive of their fundamental identity or nature. An entity’s identity is not merely influenced by the past; it is formed through it (Bhaskar, 1993).
 
@@ -167,7 +166,7 @@ Cities are constituted by their historical development: trade routes, industrial
 
 This shows how perdurance and endurance are inseparable. Diachronic analysis explains how structures came to be; synchronic analysis examines how their present operates (Bhaskar, 1993).
 
-9.5.2 Co-Presence
+### 9.5.2 Co-Presence
 
 **Co-presence** describes how elements from different historical periods coexist within present arrangements. While each element still reflects the time period it comes from, multiple temporal layers can be present at the same time, in the same social setting, and operate together. Bhaskar calls this ‘**differentially instantiated space-times**’, it means that different parts of social reality can operate according to different historical rhythms and time scales (Bhaskar, 1993).
 
@@ -175,7 +174,7 @@ In cities medieval street layouts, 19<sup>th</sup>-century factories, and modern
 
 This illustrates that the present is layered. Structures perdure through accumulated historical strata, yet they endure as concrete present configurations. Synchronic analysis must therefore recognize multiple temporal layers operating at once, while diachronic analysis explains how these layers accumulated (Bhaskar, 1993).
 
-9.5.3 Lagged Efficacy
+### 9.5.3 Lagged Efficacy
 
 **Lagged efficacy** refers to delayed causal effects. Past events can remain dormant, and manifest under specific conditions (creating effects in the present) (Bhaskar, 1993).
 
@@ -183,7 +182,7 @@ A housing policy implemented decades ago, might only produce visible segregation
 
 This challenges regularity theories of causation: Effects do not always follow immediately from causes, nor do they appear in constant conjunction. Instead, causal powers operate as tendencies that may or may not be activated, depending on context. Lagged efficacy shows how diachronic analysis is necessary as seemingly present patterns might also be past causes operating through delayed mechanisms. Yet, their effects manifest in present moments, requiring synchronic analysis of how dormant causes become activated (Bhaskar, 1993).
 
-9.5.4 Agentive Perspectivity
+### 9.5.4 Agentive Perspectivity
 
 **Agentive perspectivity** emphasizes that agents always act within pre-existing contexts. Individuals endure as present actors making choices – but they do so within historically formed structures that perdure across time. We never act in a neutral present; we act within historically shaped contexts (e.g., inherited institutions, norms and spatial arrangements) that enable and constrain certain possibilities (Bhaskar, 1993).
 
@@ -191,7 +190,7 @@ Residents of a city can (mostly) choose where to live, work or socialize. Howeve
 
 Unlike other modes focusing on temporal structures, agentive perspectivity clarifies the structure-agency relation. Agency is real and conscious, but it is always exercised within conditions that were not chosen by the agent. This perspective is inescapable because we cannot step outside history to act in pure, unmediated present. Synchronic analysis of present action must therefore incorporate a diachronic recognition of temporal embeddedness (Bhaskar, 1993).
 
-9.5.5 Overall Methodological Implications
+### 9.5.5 Overall Methodological Implications
 
 Together, these four modes demonstrate why meaningful social research cannot treat synchronic and diachronic approaches as competing methodologies. Synchronic analysis examines present relationships and configurations. Yet, these present arrangements are historically constituted (existential constitution), layered with elements from different time periods (co-presence), shaped by delayed causal effects (lagged efficacy), and inhabited by agents acting within inherited contexts (agentive perspectivity) (Archer, 1995; Porpora, 2015).
 
@@ -233,7 +232,7 @@ The remaining pieces of the object, those aspects that lie outside the adequate 
 
 Chapter 10 addresses the practical question that follows: given an object constituted through the four debates, the temporal and spatial dimensions, and the operation of adequate reduction, what must the researcher do to design an investigation capable of producing genuine knowledge about that object?
 
-# References
+## References
 
 Archer, M. S. (1995). *Realist social theory: The morphogenetic approach*. Cambridge University Press.
 
