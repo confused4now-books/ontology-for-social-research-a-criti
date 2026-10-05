@@ -5,7 +5,7 @@ topic: "methods, social ontology, critical realism, social sciences"
 
 # Chapter 1: Introduction to Ontological Analysis in Social Research
 
-## Introduction
+## Introduction[^1]
 
 Consider a situation that will be familiar to anyone who has spent time in the literature of any contested field. Two research teams investigate the same phenomenon — say, the persistence of educational inequality — and both seemingly do everything right. Both draw on adequate samples, employ validated instruments, apply methods appropriate to their data, and situate their findings within established theoretical traditions. One concludes that inequality is reproduced primarily through the unequal distribution of material resources: underfunded schools, precarious household incomes, differential access to the infrastructures of educational success. The other concludes that cultural frameworks and meaning-making practices are decisive: that the dispositions, expectations, and classificatory schemes children carry into classrooms are what determine outcomes, largely independently of resource levels. Both findings are well-supported. Both teams can defend every methodological decision. And yet their conclusions appear to be in direct contradiction.
 
@@ -172,3 +172,5 @@ Sayer, A. (2000). Realism and social science. Sage.
 Stroud, B. (1977). Hume. Routledge.
 
 Toulmin, S. (1990). Cosmopolis: The hidden agenda of modernity. University of Chicago Press.
+
+[^1]: Co-edited by Elise Wester.
