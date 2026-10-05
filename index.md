@@ -7,7 +7,7 @@ authors:
 
 # Ontology for Social Research: A Critical Introduction
 
-To go beyond the quantitative and qualitative divide in the social sciences, this book proposes ontology as the way forward. You will learn how to situate methods based on their assumptions about social reality and how to implement this philosophy into practical research.
+To go beyond the quantitative and qualitative divide in the social sciences, this book proposes ontology as the way forward. You will learn how to situate methods based on their assumptions about social reality and how to implement this philosophy into practical research. (test)
 
 ## Contents
 
