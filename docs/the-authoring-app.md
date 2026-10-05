@@ -31,7 +31,7 @@ and that's the only way you ever get it or update it.
   "unidentified developer" warning, no right-click-to-open trick.
 - It's built and signed by the platform, not by this book. Where it comes from,
   and how it's built, is in the platform's
-  [`AUTHORING-APP-OPERATIONS.md`](https://github.com/textbookproject2026-alt/textbook-registry/blob/main/docs/AUTHORING-APP-OPERATIONS.md).
+  [`AUTHORING-APP-OPERATIONS.md`](https://github.com/textbookproject2026-alt/textbook-registry/blob/main/docs/history/AUTHORING-APP-OPERATIONS.md).
 
 ### Installing and opening it
 
@@ -415,6 +415,6 @@ repository, and every past version of every file is kept.
 
 Building, signing and releasing the app, its sign-in, how it learns about books,
 and the DeepSeek egress path are the platform owner's, in
-**[`textbook-registry/docs/AUTHORING-APP-OPERATIONS.md`](https://github.com/textbookproject2026-alt/textbook-registry/blob/main/docs/AUTHORING-APP-OPERATIONS.md)**.
+**[`textbook-registry/docs/AUTHORING-APP-OPERATIONS.md`](https://github.com/textbookproject2026-alt/textbook-registry/blob/main/docs/history/AUTHORING-APP-OPERATIONS.md)**.
 The suggest-edit backend is in the platform's
 [`INFRASTRUCTURE.md`](https://github.com/textbookproject2026-alt/textbook-registry/blob/main/docs/INFRASTRUCTURE.md) §2.
