@@ -1,5 +1,4 @@
 ---
-title: "Chapter 5: Individuals and Groups"
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
@@ -169,7 +168,7 @@ The value of identifying one's ontological position explicitly, and of working t
 
 The debate also leaves a specific question open for the chapter that follows. It establishes that collective arrangements condition individual action and that individual action reproduces or transforms collective arrangements, but it does not specify the temporal and causal logic of that relationship in detail. How do structural conditions shape agential conduct without determining it? How do individuals produce structural transformation rather than mere structural reproduction? How much analytical weight falls on the conditions individuals inherit versus the reflexive deliberation they bring to those conditions? These are the questions the structure and agency debate is designed to address, and Chapter 6 takes the distinction between collective arrangements and individual action established here as its starting point.
 
-# References
+## References
 
 Archer, M. S. (1982). Morphogenesis versus structuration: On combining structure and action. British Journal of Sociology, 33(4), 455-483.
 

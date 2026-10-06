@@ -1,11 +1,10 @@
 ---
-title: "Chapter 1: Introduction to Ontological Analysis in Social Research"
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
 # Chapter 1: Introduction to Ontological Analysis in Social Research
 
-## Introduction
+## Introduction[^1]
 
 Consider a situation that will be familiar to anyone who has spent time in the literature of any contested field. Two research teams investigate the same phenomenon — say, the persistence of educational inequality — and both seemingly do everything right. Both draw on adequate samples, employ validated instruments, apply methods appropriate to their data, and situate their findings within established theoretical traditions. One concludes that inequality is reproduced primarily through the unequal distribution of material resources: underfunded schools, precarious household incomes, differential access to the infrastructures of educational success. The other concludes that cultural frameworks and meaning-making practices are decisive: that the dispositions, expectations, and classificatory schemes children carry into classrooms are what determine outcomes, largely independently of resource levels. Both findings are well-supported. Both teams can defend every methodological decision. And yet their conclusions appear to be in direct contradiction.
 
@@ -113,7 +112,7 @@ The divide is not, at its source, a disagreement about methods. It is an express
 
 The problem with methods in themselves follows directly. A method treated as appropriate in itself, independently of the research problem and its ontological requirements, generates findings whose adequacy to the object cannot be assessed. The method specifies what can be seen, what counts as evidence, and what explanatory forms are available. When the method is chosen before the ontological position is explicit, it effectively settles the ontological question in advance: the findings will be shaped by what the method can reach, and what the method cannot reach will remain invisible. The researcher who equates rigour with the application of a specific method, regardless of whether that method is adequate to the mechanisms or configurations under investigation, has made an implicit ontological commitment without subjecting it to scrutiny. Making that commitment explicit is what enables the researcher to evaluate whether the method is appropriate, to justify the choice in terms that are assessable, and to identify the limits of what the findings can establish. This is what the architecture of research developed through this book is designed to enable. Chapter 2 begins that task by setting out the conceptual architecture on which everything else rests: the relationships between ontology, epistemology, methodology, and method.
 
-# References
+## References
 
 Allison, H. E. (2004). Kant's transcendental idealism: An interpretation and defense (Revised ed.). Yale University Press.
 
@@ -172,3 +171,5 @@ Sayer, A. (2000). Realism and social science. Sage.
 Stroud, B. (1977). Hume. Routledge.
 
 Toulmin, S. (1990). Cosmopolis: The hidden agenda of modernity. University of Chicago Press.
+
+[^1]: Co-edited by Elise Wester.

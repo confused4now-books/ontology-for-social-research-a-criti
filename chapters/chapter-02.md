@@ -1,5 +1,4 @@
 ---
-title: "Chapter 2: Ontology, Epistemology, Causality, and Emergence"
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
@@ -11,7 +10,7 @@ Three sets of conceptual distinctions structure the argument. The first concerns
 
 ## 2.1 Ontology, Epistemology, Methodology, and Methods: Critical Realist Definitions
 
-2.1.1 The Problem of Conflation and the Case for Ontological Priority
+### 2.1.1 The Problem of Conflation and the Case for Ontological Priority
 
 Social research is marked by a persistent and largely unresolved methodological debate: are quantitative or qualitative approaches more appropriate for the study of social life? Proponents of quantitative methods argue that only systematic measurement and statistical inference can produce generalisable knowledge, while proponents of qualitative methods insist that the complexity and meaning-laden character of social reality requires interpretive, context-sensitive investigation. What is rarely noticed is that this debate cannot be resolved at the methodological level at all, because the disagreement is not fundamentally about techniques or even about research strategies. It is about what social reality is like and what kind of knowledge of it is possible. Researchers argue past each other because they are answering different questions while assuming they are answering the same one.
 
@@ -23,7 +22,7 @@ This does not require claiming that we have unmediated access to reality as it i
 
 It is worth noting that the intransitive dimension is not a starting point that researchers occupy before theorising. It is an anchor: the standard against which the adequacy of transitive knowledge is measured, and the condition of possibility for theoretical revision, rational comparison of competing accounts, and the explanation of why some interventions work while others fail. This distinction between the intransitive and transitive dimensions is what makes ontological priority both possible and necessary: because reality exists independently of our knowledge of it, ontological commitments about what that reality contains must come before, and constrain, the epistemological, meta-theoretical, theoretical, methodological, and methods choices through which we attempt to know it. How these dimensions relate to one another, and why getting their relationships right matters for social research, is the subject of the sections that follow.
 
-2.1.2 From the Intransitive Dimension to the Architecture of Social Research
+### 2.1.2 From the Intransitive Dimension to the Architecture of Social Research
 
 The intransitive/transitive distinction establishes that reality exists independently of our knowledge of it, and that our knowledge is always a historically situated and fallible attempt to approximate that reality. But this immediately raises a further question: what kinds of things does the intransitive dimension contain, at least in the social domain? Not all of reality is relevant to social research in the same way. The social world has a specific character, populated by specific kinds of entities with specific kinds of properties and causal powers. Identifying what those entities are, how they exist, and how they relate to one another is the task of social ontology. **Ontology** is the study of what exists, how different aspects of reality are constituted, and what properties and causal powers they possess. It is important to distinguish ontology as a philosophical discipline from being itself: ontology does not refer to mind-independent reality as such but to our systematic theorisation of what that reality looks like in its most fundamental form. When researchers grapple with ontological questions in the social domain, they are asking: what kinds of entities exist in social reality? Do individual persons, social structures, cultural meanings, and institutional arrangements all exist independently and with their own causal powers, or can some be reduced to others? How do different aspects of social reality relate to and act upon one another? These are not questions about how we know social reality but about what it is, and the answers researchers give to them, whether explicitly or implicitly, shape everything that follows (Bhaskar, 1975, 1979).
 
@@ -41,9 +40,9 @@ Running through all of these dimensions, but irreducible to any one of them, is 
 
 The relationships between these dimensions, and the derivative crosscutting role of epistemology, are represented in Figure 2.1.
 
-<img src="../assets/chapter-02/media/image1.png" style="width:6.26389in;height:5.79722in" />
+<img src="../assets/chapter-02/media/image1.png" alt="Figure 2.1: how ontology, epistemology, methodology and methods relate, with epistemology's crosscutting role" style="width:6.26389in;height:5.79722in" />
 
-2.1.3 Why Social Research Needs an Ontological Referent
+### 2.1.3 Why Social Research Needs an Ontological Referent
 
 The architecture described in section 2.1.2 rests on a foundational claim: that the intransitive dimension provides a shared referent against which the adequacy of transitive knowledge can be assessed. This claim is not self-evident, and it requires defence. The social world is complex, contested, and epistemically unstable: new forms of social organisation emerge, existing arrangements are transformed, and the conceptual frameworks through which researchers make sense of social life are themselves historically situated and subject to revision. In such conditions, it might seem more honest to abandon the idea of an ontological referent altogether and to treat social research as a conversation between competing perspectives, each capturing something real about a domain that resists any single adequate description. This position has considerable appeal, and versions of it inform influential traditions in social research, from interpretivism to strong constructivism. The argument of this section is that such a position cannot be sustained, not because it is naively wrong, but because it is self-undermining: the practices it relies on to distinguish better from worse social research already presuppose the ontological referent it claims to dispense with (Bhaskar, 1979; Sayer, 2000).
 
@@ -65,7 +64,7 @@ Because the accounts examined below repeatedly invoke commitments about time, tw
 
 Parallel distinctions apply to space. Absolute conceptions treat space as a container that exists independently of the objects and processes within it, a neutral stage on which social life unfolds. Relational conceptions treat space as constituted by the relationships between entities and as actively produced through social practice, so that spatial arrangements are both an outcome and a medium of social processes (Massey, 2018). These commitments matter for causal explanation because they determine whether proximity, distance, and location can themselves do causal work or merely describe where causes happen to operate. With these preliminary distinctions in hand, the positions that follow can be located not only by what they say about causation but by the ontologies of time and space they presuppose.
 
-2.2.1 Mechanical and Mathematical Causality – Descartes and Newton
+### 2.2.1 Mechanical and Mathematical Causality – Descartes and Newton
 
 Early modern science redefined the concept of causality by replacing ancient purpose-based explanations (Aristotle) with mechanical explanations. In mechanical philosophy, associated with Descartes (see Chapter 1), causal relations involve direct interaction determined by necessity: objects transmit motions through contact; thus, the world is conceived as a system of interacting parts, operating according to deterministic laws. Consequently, if all initial conditions and laws are known, future states can be predicted with certainty. Causality is therefore deterministic, based on physical interaction (Cohen, 1999). This deterministic conception of causality aligns with the understanding of time as a continuous flow (aligning with Eternalism) and space as a container within which objects move and interact (aligning with absolute space).
 
@@ -75,7 +74,7 @@ Newton extends this perspective by demonstrating that causal relationships can b
 
 These developments established a powerful image of causality: deterministic, law-like, and ideally predictive. However, both approaches faced questions about whether such frameworks could explain phenomena involving purposes, meanings, and agency that appeared irreducible to mechanical necessity or mathematical laws.
 
-2.2.2 Causality as Regularity – Hume
+### 2.2.2 Causality as Regularity – Hume
 
 Hume subjected causal reasoning to a critique that continues to shape philosophical debate (see Chapter 1). His analysis is frequently read as the founding statement of regularity theory, yet his own position is more equivocal than this reception suggests. Hume argued that when we observe what we call a causal relation, we never actually perceive any necessary connection between cause and effect; we observe only that one type of event regularly follows another. From repeated experience of such constant conjunction, we develop the expectation that similar antecedents will produce similar consequents, but this expectation is a product of psychological habit rather than rational inference or direct perception of causal power (Hume, 1748/2000). Necessity, on this account, is not a feature of the world we discover through observation but a projection of the mind formed through accumulated experience.
 
@@ -85,7 +84,7 @@ This regularity conception carries important implications for how time and space
 
 Reducing causation to constant conjunction raises difficulties wherever regularities are unstable, conditional, or context-dependent, as they frequently are in social life. It was precisely this sceptical residue in Hume that motivated later philosophers to ask whether regularity is the most that can be said, or whether the underlying structure of causal relations demands a different kind of account.
 
-2.2.3 Causality as Category – Kant
+### 2.2.3 Causality as Category – Kant
 
 Kant responded to Hume with a deeply influential argument: causality is not something we observe happening in the outside world (and falsely base predictions on), but something that makes experience possible in the first place. We cannot organize our perceptions without interpreting events as connected through cause and effect. Causality is therefore not derived from repeated observation but built into the way our minds, or more specifically our understanding, structure experience. In this sense, causality is a concept our understanding projects onto the world to make sense of it, leaving us in the dark about whether or not "real" objects (noumena) even have a relation of causality that is inherent to themselves.
 
@@ -95,11 +94,11 @@ This framework also has important implications for the ontology of time and spac
 
 Nonetheless, this conception of causality also carries limitations. While causality structures our experience of the perceived world, we cannot know whether it also corresponds to reality-in-itself. This raises further questions for social research, where understanding agency and intentional action appears to require distinguishing mechanical causation from purposive action.
 
-2.2.4 Contemporary Debates: Regularity, Intentionality, and Modal Theories
+### 2.2.4 Contemporary Debates: Regularity, Intentionality, and Modal Theories
 
 Contemporary philosophy of causality has developed three broad approaches that attempt to address the limitations of the historical stances that have just been examined. These approaches are connected to different ontologies of time and space, and those assumptions shape how they explain social phenomena in terms of *why* things happen.
 
-2.2.4.1 Regularity Theories
+#### 2.2.4.1 Regularity Theories
 
 **Regularity theories** draw on Hume's analysis of constant conjunction but systematise it into a positive doctrine he himself stopped short of affirming. On this view, causality consists in law-like regularities: causes are events regularly followed by other events under similar conditions, and to explain something is to show that it fits a stable, repeatable pattern. The deductive-nomological model, developed by logical positivists, provides the classic formulation: an event is explained when it can be derived from general laws and specific initial conditions (Hempel, 1965). Where Hume treated regularities as the outer limit of what experience can establish, the deductive-nomological model treats them as constitutive of causal explanation itself, transforming a sceptical observation about the limits of knowledge into a methodological programme.
 
@@ -107,7 +106,7 @@ This approach works well in closed systems where stable patterns can be observed
 
 Regularity approaches face significant difficulties in open systems, where multiple mechanisms operate simultaneously and interfere with one another. In such contexts, constant conjunctions are rare, observed correlations may not track genuine causal relationships, and the absence of a regularity provides no grounds for concluding that a causal power is absent.
 
-2.2.4.2 Intentionality Theories
+#### 2.2.4.2 Intentionality Theories
 
 **Intentionality theories** hold that human action cannot be explained through mechanical causation or observed regularities alone, because social life is constituted by purposes, beliefs, and meanings that require interpretation rather than mere observation. Weber distinguished between causal explanation of events (Erklären) and the interpretive understanding of meaningful action (Verstehen), but crucially argued that adequate social explanation requires both: understanding the meaning an actor attaches to their conduct is the necessary route to identifying its causal significance, not a substitute for causal analysis (Weber, 1922/1978). Developed further within the philosophy of action, this tradition argues that intentions and reasons are not merely accompanying features of behaviour but are themselves causally relevant: to explain an action is to identify the reasons for which it was performed (Anscombe, 1957; Davidson, 1963).
 
@@ -115,7 +114,7 @@ This approach carries an affinity with an agent-focused ontology. By centering p
 
 Intentionality theories face difficulties wherever social patterns persist without being intended by any actor, or where structural constraints systematically shape what actors can do regardless of their purposes. Unintended consequences and durable inequalities sit awkwardly within frameworks that locate causal explanation primarily at the level of individual meaning and motivation.
 
-2.2.4.3 Modal Theories
+#### 2.2.4.3 Modal Theories
 
 **Modal theories** redefine causality in terms of powers, capacities, and dispositions rather than observed regularities. The term "modal" signals this shift: where regularity theories concern only what actually and repeatedly occurs, modal theories are concerned with what entities can do, what they must tend toward, and what conditions are necessary for those tendencies to manifest. A causal power, on this view, exists even when it is not currently activated, in the same way that a fragile object possesses the disposition to break even when nothing is currently breaking it (Molnar, 2003; Mumford, 1998).
 
@@ -123,7 +122,7 @@ Critical realism develops this view by distinguishing between causal powers that
 
 Because causal powers are formed, accumulated, and transformed through historical processes, modal theories require diachronic analysis to identify how those powers came to be constituted, alongside synchronic analysis of how they operate in present configurations. They therefore integrate persistent structural properties with variable contextual manifestations, and shift explanatory attention from observable surface regularities to the underlying mechanisms that generate them. This makes modal theories particularly suited to analyzing complex social processes in which structures and agents both possess causal capacities that interact in context-dependent ways.
 
-2.2.5 The Open Systems Problem and Social Causality
+### 2.2.5 The Open Systems Problem and Social Causality
 
 Understanding causality in social research requires grappling with what critical realists call the **open systems problem**: social reality differs fundamentally from closed experimental systems because multiple causal mechanisms operate simultaneously, making constant conjunctions rare and explanation through statistical regularities inadequate. This problem connects directly to the ontology of time and space examined earlier, as open systems involve emergent properties and are operating across temporal scales and spatial levels that cannot be reduced to event regularities observable at particular moments (Bhaskar, 1975; Collier, 1994).
 
@@ -153,7 +152,7 @@ The debate between emergence and reduction is not merely philosophical; it direc
 
 Three fundamental approaches structure contemporary debates: **reductionist approaches** denying emergence and treating causality as constant conjunction; **agent-focused approaches** emphasizing subjective experience and intentionality; and **structuralist approaches** integrating persistent structures with immediate agency through modal accounts of causal powers. Each approach embeds commitments about the ontology of time and space, and appropriate methodology.
 
-2.3.1 Reductionist Approaches: Denying Emergence, Emphasizing Regularity
+### 2.3.1 Reductionist Approaches: Denying Emergence, Emphasizing Regularity
 
 **Reductionist approaches** hold that complex phenomena can be adequately explained by reducing them to simpler components. Macro-level patterns do not possess independent causal powers; they result from the aggregation of individual actions and interactions (micro-level relationships) (Lawson, 1997). This framework aligns with presentist temporal ontology (only the present is real), endurant persistence (entities exist wholly at each of theirdifferent moments), synchronic methodology (analyzing present patterns and relationships), and regularity theories of causation (identifying constant conjunctions). Methodological individualism exemplifies reductionist approaches in social research by treating individual persons as fundamental units whose characteristics and interactions generate all collective phenomena (Lawson, 1997).
 
@@ -163,7 +162,7 @@ Temporal development is interpreted as a sequence of such interactions, demandin
 
 Reductionist approaches provide clear and analytically precise models of behavior. However, they struggle to account for phenomena that appear to have effects beyond individual intentions. For instance, organizations with similar individual resources often perform differently. Institutional arrangements constrain individual action in ways that cannot be reduced to other individuals' choices. Network effects generate advantages from spatial location rather than from individual characteristics. Language systems operate through grammatical rules that no individual created or controls. These phenomena suggest that collective properties possess irreducible causal powers requiring analysis at appropriate ontological level rather than reduction to individual components (Elder-Vass, 2010).
 
-2.3.2 Agent-Focused Approaches: Emphasizing Subjective Experience
+### 2.3.2 Agent-Focused Approaches: Emphasizing Subjective Experience
 
 **Agent-focused approaches** argue that social phenomena cannot be explained solely through regular patterns or structural mechanisms. Human action involves intention, beliefs and meanings. To understand why people act as they do, it must be examined how they interpret their situations and make choices. This framework aligns with presentist temporal ontology (privileging present experience), endurant persistence (agents as whole persons making choices), synchronic methodology (analyzing present meanings), and intentionality theories of causation (understanding action through purposes and reasons). Interpretive sociology, phenomenology, and symbolic interactionism exemplify agent-focused approaches treating social reality as constituted through meaningful interaction rather than through structural mechanisms operating independently of actors' interpretations (Weber, 1922/1978; Schutz, 1967).
 
@@ -173,7 +172,7 @@ Actors continuously interpret situations and make choices based on current circu
 
 Agent-focused approaches capture the central role of interpretation and agency in social life. However, they face difficulties explaining systematic patterns that persist beyond individual intentions. Power relations, institutional rules, and historical legacies can shape possibilities even when actors do not recognize or endorse them. Unintended consequences generate outcomes that no one intended or foresaw. Cultural systems possess logical relationships and internal contradictions that transcend actors’ understandings. These phenomena suggest that social structures may possess effects that cannot be fully reduced to present interpretations alone (Archer, 1995).
 
-2.3.3 Structuralist Approaches: Integrating Persistence with Agency Through Modal Causality
+### 2.3.3 Structuralist Approaches: Integrating Persistence with Agency Through Modal Causality
 
 **Structuralist approaches** share a commitment to explaining social outcomes by reference to relatively enduring structures that shape the conditions of action without determining it, while also recognising that those structures are produced and reproduced through agency. This broad family includes Marxist structural analysis, which locates causal primacy in relations of production and class formation (Wright, 1997); Bourdieu's field theory, which traces how objective social positions and internalized dispositions interact to reproduce inequality (Bourdieu, 1984); and historical institutionalism, which examines how institutional arrangements accumulate over time and constrain present possibilities through path dependence (Mahoney and Thelen, 2010). What these approaches share is the recognition that explanation requires attending to both relatively stable structural properties and the present activity through which those properties are maintained or transformed, integrating diachronic and synchronic analysis rather than privileging one over the other.
 

@@ -1,9 +1,9 @@
 ---
-title: "Chapter 4: Finding the Referent"
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
 # Chapter 4: Finding the Referent
+
 ## 4.1 Introduction
 
 The preceding three chapters have established the philosophical foundations on which social research rests: that social reality exists independently of our knowledge of it, that it is stratified into domains of the empirical, actual, and real, and that its constitution involves emergent causal powers that cannot be adequately captured by regularity theories of causation alone. What those foundations leave open are the substantive social ontological questions that must be confronted by any research design that takes the social world seriously. This chapter prepares the analytical ground for the four debates that constitute Part II. Section 4.2 introduces the object of research as the referent that governs the investigation, and develops the trench and library stacks heuristics as tools for understanding what adequate research design requires. Section 4.3 introduces research problematics and research problems as distinct analytical categories and examines the relationship between them. Section 4.4 introduces the four social ontological debates and develops the logic through which they relate to one another. Section 4.5 addresses the epistemological status of ontological situating: it is a systematic but fallible and revisable heuristic, and understanding it as such is a condition of using it honestly.
@@ -78,7 +78,7 @@ The four chapters that constitute Part II of this book each examine one of the f
 
 What the present chapter has established is the ground on which that work rests. Ontological situating emerges from the cumulative limitations of the major traditions of engagement with existing research: it is what systematic inquiry requires once those limitations are taken seriously. The four social ontological debates are not arbitrary classifications but the fault lines along which social research most consistently divides, ordered from the most concrete and tractable to the most abstract and encompassing, and connected by consistency pressures that run in both directions and make incoherent combinations across them philosophically costly. And the practice of situating, however systematic, remains a heuristic: fallible, revisable, and most valuable as a discipline of reflexive self-examination about what one's own position enables and forecloses.
 
-# References
+## References
 
 Althusser, L. (1970). For Marx (B. Brewster, Trans.). Vintage Books. (Original work published 1965)
 

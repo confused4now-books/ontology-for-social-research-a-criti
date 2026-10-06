@@ -1,5 +1,4 @@
 ---
-title: "Chapter 6: Structure and Agency"
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
@@ -171,7 +170,7 @@ The structure and agency debate is not resolved by acknowledging that both struc
 
 One question the structure and agency debate cannot answer from its own resources is what the structural conditions actors encounter are ultimately made of. Whether their causal force operates independently of how actors think about them, which is what Chapter 7 will call the material pole, or depends on being reproduced through active interpretive work, which is what Chapter 7 will call the ideational pole, is a question the third diagnostic question points toward but does not resolve. That is where the next debate begins.
 
-# References
+## References
 
 Althusser, L. (1970). For Marx (B. Brewster, Trans.). Vintage Books.
 

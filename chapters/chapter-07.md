@@ -1,5 +1,4 @@
 ---
-title: "Chapter 7: Material and Ideational"
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
@@ -161,13 +160,13 @@ The Becoming pole represents pure interpretive flux without stable structures. D
 
 Understanding Being-Becoming requires recognizing "middle positions" represent *ranges*, not single points. The middle range where material structuration meets ideational semiosis contains multiple sophisticated positions differing in:
 
-1)  degree of emphasis on Being versus Becoming—whether emphasizing structural permanence or transformative processes;
+1) degree of emphasis on Being versus Becoming—whether emphasizing structural permanence or transformative processes;
 
-2)  integration mechanism—how they theorize Being-Becoming relationships (recursive instantiation, temporal cycles, dialectical internalization, triadic semiotics, hermeneutic circles, institutionalization processes);
+2) integration mechanism—how they theorize Being-Becoming relationships (recursive instantiation, temporal cycles, dialectical internalization, triadic semiotics, hermeneutic circles, institutionalization processes);
 
-3)  theoretical apparatus—what concepts and analytical tools they employ for specifying integration;
+3) theoretical apparatus—what concepts and analytical tools they employ for specifying integration;
 
-4)  whether they address material or ideational, with material approaches emphasizing structuration (Being-through-Becoming) and ideational approaches emphasizing semiosis (Becoming-through-Being).
+4) whether they address material or ideational, with material approaches emphasizing structuration (Being-through-Becoming) and ideational approaches emphasizing semiosis (Becoming-through-Being).
 
 Giddens, Archer, and Bourdieu all occupy balanced structuration but use fundamentally different integration mechanisms and theoretical resources. Giddens emphasizes recursive instantiation where structures exist only through practices while practices draw upon structures (Giddens, 1984). Archer emphasizes temporal cycles distinguishing phases where structures precede action, action occurs within constraints, and outcomes reproduce or transform structures (Archer, 1995). Bourdieu emphasizes dialectical internalization where material conditions become embodied as habitus generating practices within fields (Bourdieu, 1990). Despite occupying similar positions on the Being-Becoming continuum, these approaches employ different theoretical apparatus for explaining how Being and Becoming integrate.
 
