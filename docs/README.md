@@ -10,7 +10,10 @@ books) is documented by the platform owner in
 [`textbook-registry/docs/`](https://github.com/textbookproject2026-alt/textbook-registry/tree/main/docs),
 and isn't repeated here.
 
-Setting the book up in the first place is [`SETUP.md` in the book template](https://github.com/textbookproject2026-alt/textbook-template/blob/main/SETUP.md).
+For authors, the place to start is the platform's
+[guide for authors](https://guide.confused4now.org), an A–Z of the whole workflow.
+
+Setting the book up in the first place is [`SETUP.md` in the book template](https://github.com/textbookproject2026-alt/textbook-template/blob/main/SETUP.md) (a book made from the template doesn't keep a copy).
 
 ## Start here
 
@@ -27,8 +30,9 @@ If you're inheriting this book, read these first:
 - **[`editing-the-textbook.md`](editing-the-textbook.md)**: where to edit, how
   the book is organised, how to add a chapter, going live, and what changes
   without you.
-- **[`the-authoring-app.md`](the-authoring-app.md)**: the Mac app that links
-  citations and concept pages, builds the glossary, and shows what people sent in.
+- **[`the-author-site.md`](the-author-site.md)**: the author site, where you bring
+  chapters in from Word, link citations and concept pages, build the glossary,
+  answer what people sent in, and go live.
 - **[`word-to-markdown.md`](word-to-markdown.md)**: writing a chapter in Word so
   it converts cleanly.
 - **[`moderating-comments.md`](moderating-comments.md)**: reader comments,
@@ -57,15 +61,17 @@ If you're inheriting this book, read these first:
 - **[`the-browser-editor.md`](the-browser-editor.md)**: the optional browser
   editor: its host, its generated config, contributor access.
 
+- **[`annotation-restore.md`](annotation-restore.md)**: the Sunday annotation
+  backup, which runs only once the book has a Hypothes.is token, and what
+  restoring from it really involves.
+
 ## Not included, and where to find it
 
-| If the book adds | Take the guide from book one (`textbookproject2026-alt/textbook/docs/`) |
+| If the book adds | The guide |
 |---|---|
-| the weekly annotation backup | `annotation-restore.md` |
-| department editions | `for-course-coordinators.md`, `updating-department-editions.md` |
+| department editions | `for-course-coordinators.md` and `updating-department-editions.md`, in [`textbook-edition-template/docs/`](https://github.com/textbookproject2026-alt/textbook-edition-template/tree/main/docs) |
 
-Each of those describes machinery a new book doesn't start with. Copy the guide
-in along with the workflow or template it describes.
+Editions are machinery a new book doesn't start with.
 
 **Screenshots.** The `[SCREENSHOT: …]` markers are images that haven't been
 taken yet. Leave them as markers until someone shoots the real thing.
