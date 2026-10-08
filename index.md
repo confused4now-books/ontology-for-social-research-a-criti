@@ -14,8 +14,8 @@ To go beyond the quantitative and qualitative divide in the social sciences, thi
 - **[[chapters/introduction|Introduction]]**
 - **[[chapters/chapter-01|Chapter 1: Introduction to Ontological Analysis in Social Research]]**
 - **[[chapters/chapter-02|Chapter 2: Ontology, Epistemology, Causality, and Emergence]]**
-- **[[chapters/chapter-04|Chapter 4: Finding the Referent]]**
 - **[[chapters/chapter-03|Chapter 3: Reality and the Problem of Unobservables]]**
+- **[[chapters/chapter-04|Chapter 4: Finding the Referent]]**
 - **[[chapters/chapter-05|Chapter 5: Individuals and Groups]]**
 - **[[chapters/chapter-06|Chapter 6: Structure and Agency]]**
 - **[[chapters/chapter-07|Chapter 7: Material and Ideational]]**
