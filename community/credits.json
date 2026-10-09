@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "contributors": [
+    {
+      "name": "book-requests",
+      "github": "textbookproject2026-alt",
+      "counts": {
+        "edit": 0,
+        "note": 0,
+        "suggestion": 0,
+        "commit": 2
+      },
+      "contributions": [
+        {
+          "kind": "commit",
+          "ref": "562302c",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/commit/562302c3c232370a27237861ddbb43ec29130cf7",
+          "date": "2026-09-26",
+          "pages": [
+            "chapters/introduction.md",
+            "glossary.md",
+            "index.md"
+          ]
+        },
+        {
+          "kind": "commit",
+          "ref": "6ee8f03",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/commit/6ee8f03901e8ea8675ac186760ab1ae455389fe9",
+          "date": "2026-10-05",
+          "pages": [
+            "chapters/chapter-01.md"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BrandonAndCaroline",
+      "counts": {
+        "edit": 0,
+        "note": 0,
+        "suggestion": 0,
+        "commit": 1
+      },
+      "contributions": [
+        {
+          "kind": "commit",
+          "ref": "3912cb2",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/commit/3912cb2fc963d9731b0cd84d482895640eb7d60c",
+          "date": "2026-10-05",
+          "pages": [
+            "chapters/introduction.md"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Claude",
+      "counts": {
+        "edit": 0,
+        "note": 0,
+        "suggestion": 0,
+        "commit": 1
+      },
+      "contributions": [
+        {
+          "kind": "commit",
+          "ref": "13a9eb4",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/commit/13a9eb4b88121d1a1fde55021360ac70825825fc",
+          "date": "2026-10-01",
+          "pages": [
+            "chapters/chapter-01.md",
+            "chapters/chapter-02.md",
+            "chapters/chapter-03.md",
+            "chapters/chapter-04.md",
+            "chapters/chapter-05.md",
+            "chapters/chapter-06.md",
+            "chapters/chapter-07.md",
+            "chapters/chapter-08.md",
+            "chapters/chapter-09.md",
+            "chapters/chapter-10.md",
+            "chapters/chapter-11.md",
+            "index.md"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dept-coordinator-test",
+      "counts": {
+        "edit": 0,
+        "note": 0,
+        "suggestion": 0,
+        "commit": 1
+      },
+      "contributions": [
+        {
+          "kind": "commit",
+          "ref": "9a97083",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/commit/9a9708359bac47b63d43440a2e148aee10a12434",
+          "date": "2026-10-05",
+          "pages": [
+            "chapters/chapter-01.md",
+            "chapters/chapter-02.md",
+            "chapters/chapter-03.md",
+            "chapters/chapter-04.md",
+            "chapters/chapter-05.md",
+            "chapters/chapter-06.md",
+            "chapters/chapter-07.md",
+            "chapters/chapter-08.md",
+            "chapters/chapter-09.md",
+            "chapters/chapter-10.md",
+            "chapters/chapter-11.md",
+            "chapters/introduction.md"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "zs",
+      "counts": {
+        "edit": 1,
+        "note": 0,
+        "suggestion": 0,
+        "commit": 0
+      },
+      "contributions": [
+        {
+          "kind": "edit",
+          "ref": "#3",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/3",
+          "date": "2026-10-01",
+          "pages": [
+            "chapters/introduction.md"
+          ]
+        }
+      ]
+    }
+  ]
+}
