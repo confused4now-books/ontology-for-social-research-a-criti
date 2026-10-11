@@ -16,7 +16,7 @@ However, responding to this challenge requires a different starting point from t
 
 The chapters that follow will develop systematic frameworks for ontological analysis through careful examination of four fundamental debates that shape how researchers approach social phenomena:
 
-- the fundamental units of social analysis (**individuals versus groups**),
+- the fundamental units of social analysis (**individuals and groups**),
 
 - how social arrangements relate to human action (**structure versus agency**),
 
