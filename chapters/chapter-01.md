@@ -14,7 +14,7 @@ This book proposes that many of the most persistent disagreements in social rese
 
 However, responding to this challenge requires a different starting point from that offered by most traditional research methods textbooks. Rather than beginning with the research cycle or data collection this book starts with fundamental philosophical questions about the nature of social reality. This approach reflects a conviction that methodological choices (decisions about what to study, how to study it, and what would count as adequate evidence) cannot be separated from deeper ontological commitments about what exists in the social world and how different aspects of social reality relate to each other. After all, what you think is there will influence how you think you can find out more about it. Nonetheless, traditional methods texts often treat these philosophical foundations as either irrelevant to practical research or as settled matters requiring no further examination, and thus leaving them implicit in research practice. This book argues instead that ontological awareness is an essential prerequiset for sophisticated social research, and that it enables both critical evaluation of existing studies and informed development and methods choice of new research.
 
-The chapters that follow develop systematic frameworks for ontological analysis through careful examination of four fundamental debates that shape how researchers approach social phenomena:
+The chapters that follow will develop systematic frameworks for ontological analysis through careful examination of four fundamental debates that shape how researchers approach social phenomena:
 
 - the fundamental units of social analysis (**individuals versus groups**),
 
