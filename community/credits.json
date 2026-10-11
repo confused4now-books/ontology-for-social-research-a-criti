@@ -2,6 +2,26 @@
   "version": 1,
   "contributors": [
     {
+      "name": "Caroline",
+      "counts": {
+        "edit": 1,
+        "note": 0,
+        "suggestion": 0,
+        "commit": 0
+      },
+      "contributions": [
+        {
+          "kind": "edit",
+          "ref": "#13",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/13",
+          "date": "2026-10-11",
+          "pages": [
+            "chapters/introduction.md"
+          ]
+        }
+      ]
+    },
+    {
       "name": "zs",
       "counts": {
         "edit": 1,
