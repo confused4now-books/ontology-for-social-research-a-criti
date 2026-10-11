@@ -18,11 +18,11 @@ The chapters that follow will develop systematic frameworks for ontological anal
 
 - the fundamental units of social analysis (**individuals and groups**),
 
-- how social arrangements relate to human action (**structure versus agency**),
+- how social arrangements relate to human action (**structure and agency**),
 
-- what drives social reality (**material versus ideational factors**),
+- what drives social reality (**material and ideational factors**),
 
-- and whether explanations transcend contexts or remain historically specific (**transcendence versus immanence**).
+- and whether explanations transcend contexts or remain historically specific (**transcendence and immanence**).
 
 These debates emerged not from abstract philosophical speculation but from persistent tensions in how researchers actually investigate social life. Understanding them provides analytical tools for recognizing often-hidden assumptions that shape research practice while clarifying what different philosophical commitments make possible and what they constrain.
 
