@@ -13,17 +13,18 @@ The book names no editors.
 
 ## Contributors
 
-1 person has contributed so far.
+2 people have contributed so far.
 
 | Contributor | Contributions | Pages | References |
 | --- | --- | --- | --- |
+| Caroline | 1 edit | [[chapters/introduction\|Introduction]] | [#13](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/13) |
 | zs | 1 edit | [[chapters/introduction\|Introduction]] | [#3](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/3) |
 
 ## By page
 
 <a id="page-chapters-introduction"></a>
 
-**[[chapters/introduction\|Introduction]]**: zs
+**[[chapters/introduction\|Introduction]]**: Caroline and zs
 
 ## How credit works
 
