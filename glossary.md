@@ -16,3 +16,7 @@ Reality as it exists and operates independently of our knowledge of it, the stru
 ## transcendental
 
 The conditions of possibility for something to be there. Generally considered to originate with Kant, transcendental arguments aim to show that X is a necessary condition for Y to happen, and as we can agree to Y, we can ask what would be needed for this to be possible in the first place.
+
+## transitive
+
+Our mind-dependent knowledge of mind-independent reality, including out historically developing body of theories, concepts, models, and explanatory frameworks through which we attempt to understand the mind-independent reality (the intransitive).
