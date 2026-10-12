@@ -2,7 +2,7 @@
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
-# Chapter 2: Ontology, Epistemology, Causality, and Emergence
+# Chapter 2: Ontology, Epistemology, Causality, and Emergence[^1]
 
 Chapter 1 established the philosophical stakes of social research: the difficulties created by the empiricist tradition, the ontological responses it provoked, and the confusions that arise when quantification is conflated with objectivity and when methods are treated as adequate independently of the objects they investigate. The present chapter addresses the conceptual architecture required to move beyond the problem.
 
