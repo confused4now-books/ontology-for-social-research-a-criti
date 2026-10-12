@@ -163,4 +163,4 @@ Stroud, B. (1977). Hume. Routledge.
 Toulmin, S. (1990). Cosmopolis: The hidden agenda of modernity. University of Chicago Press.
 
 [^1]: Co-edited by Elise Wester.
-[^2]: Note that in principle, a research group could choose to make the relationship between researchers and the thing(s) or people they study the object of their research - this would be 
+[^2]: Note that in principle, a research group could choose to make the relationship between researchers and the thing(s) or people they study the object of their research, as this is a real
