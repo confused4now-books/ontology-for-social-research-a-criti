@@ -8,3 +8,7 @@ authoring app decides that a folder is a textbook by finding `chapters/`,
 `assets/` and `glossary.md` together (`authoring-assistant/app/convert.py`,
 `_is_vault_root`). Without all three it refuses to place a converted chapter's
 pictures rather than guess.
+
+## transcendental
+
+The conditions of possibility for something to be there. Generally considered to originate with Kant, transcendental arguments aim to show that X is a necessary condition for Y to happen, and as we can agree to Y, we can ask what would be needed for this to be possible in the first place.
