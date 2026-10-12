@@ -86,6 +86,8 @@ Danermark, B., Ekström, M., Jakobsen, L., & Karlsson, J. C. (2002). *Explaining
 
 Fogelin, R. J. (1985). *Hume's scepticism in the Treatise of Human Nature*. Routledge.
 
+Fuller, S., & Collier, J. H. (2003). Philosophy, rhetoric, and the end of knowledge: A New Beginning for Science and Technology Studies. Routledge.
+
 Gardner, S. (1999). *Kant and the Critique of Pure Reason*. Routledge.
 
 Garrett, D. (1997). *Cognition and commitment in Hume's philosophy*. Oxford University Press.
