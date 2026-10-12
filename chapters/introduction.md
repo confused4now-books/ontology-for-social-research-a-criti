@@ -124,6 +124,8 @@ Pandey, C. S., Mishra, P., Pandey, S. R., Pandey, S. R., Singh, R. D., Pandey, S
 
 Rovelli, C. (2004). *Quantum gravity*. Cambridge University Press.
 
+Roy, E. D., Morzillo, A. T., Seijo, F., Reddy, S. M. W., Rhemtulla, J. M., Milder, J. C., Kuemmerle, T., & Martin, S. L. (2013). The elusive pursuit of interdisciplinarity at the Human--Environment interface. BioScience, 63(9), 745–753. https://doi.org/10.1093/bioscience/63.9.745
+
 Sayer, A. (2000). *Realism and social science*. Sage.
 
 Spinoza, B. (1994). A Spinoza reader: The Ethics and other works (E. Curley, Ed. & Trans.). Princeton University Press. (Original work published 1677).
