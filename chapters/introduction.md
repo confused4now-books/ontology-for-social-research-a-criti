@@ -120,6 +120,8 @@ Locke, J. (1689). *An essay concerning human understanding* (P. H. Nidditch, Ed.
 
 Massey, D. (2018). Power-geometry and a progressive sense of place. In *The Doreen Massey Reader* (pp. 149–158). Agenda Publishing. https://doi.org/10.1017/9781911116844.011 (Original work published 1993)
 
+Pandey, C. S., Mishra, P., Pandey, S. R., Pandey, S. R., Singh, R. D., Pandey, S., & Pandey, S. (2025). Research paradigms: a systematic literature review of methodological shifts and interdisciplinary approaches in research. Quality & Quantity, 60(1), 2297–2325. https://doi.org/10.1007/s11135-025-02359-5
+
 Rovelli, C. (2004). *Quantum gravity*. Cambridge University Press.
 
 Sayer, A. (2000). *Realism and social science*. Sage.
