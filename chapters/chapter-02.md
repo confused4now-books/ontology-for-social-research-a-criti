@@ -8,7 +8,7 @@ Chapter 1 established the philosophical stakes of social research: the difficult
 
 Three sets of conceptual distinctions structure the argument. The first concerns the relationship between ontology, epistemology, methodology, and methods, and why it is helpful, if not necessary, to give priority to ontological questions as prerequisites for coherent methodological questions. The second concerns causality: the range of positions available in the philosophical literature and the specific demands that open social systems place on any adequate account of causal explanation. The third aspect concerns emergence and the three broad approaches to it that have shaped how social science accounts for collective properties and their causal powers. Together these three sets of distinctions constitute the conceptual foundation for the four social ontological debates in Part II.
 
-## 2.1 Ontology, Epistemology, Methodology, and Methods: Critical Realist Definitions
+## 2.1 Ontology, Epistemology, Methodology, and Methods: Critical Realist Definitions[^1]
 
 ### 2.1.1 The Problem of Conflation and the Case for Ontological Priority
 
