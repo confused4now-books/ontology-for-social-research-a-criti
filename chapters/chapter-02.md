@@ -2,7 +2,7 @@
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
-# Chapter 2: Ontology, Epistemology, Causality, and Emergence[^1]
+# Chapter 2: Ontology, Epistemology, Causality, and Emergence
 
 Chapter 1 established the philosophical stakes of social research: the difficulties created by the empiricist tradition, the ontological responses it provoked, and the confusions that arise when quantification is conflated with objectivity and when methods are treated as adequate independently of the objects they investigate. The present chapter addresses the conceptual architecture required to move beyond the problem.
 
@@ -187,8 +187,6 @@ The account of emergence in section 2.3 establishes that collective properties c
 What follows in Part II applies these conceptual foundations to the four social ontological debates. Each debate surfaces a dimension along which ontological commitments must be made explicit, and each requires the researcher to work through the implications of their commitments at the level of causality and emergence before methodological questions can be coherently addressed. The call to make ontology explicit is not a demand for philosophical comprehensiveness; it is a condition for methodological coherence.
 
 ## Footnotes
-
-[^1]: Co-edited by Valentina Wigny.
 
 ## References
 
