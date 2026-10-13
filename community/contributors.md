@@ -13,18 +13,32 @@ The book names no editors.
 
 ## Contributors
 
-2 people have contributed so far.
+4 people have contributed so far.
 
 | Contributor | Contributions | Pages | References |
 | --- | --- | --- | --- |
+| Brandon Sommer and Caroline Laschkolnig | 407 commits | [[chapters/chapter-01\|Chapter 1: Introduction to Ontological Analysis in Social Research]], [[chapters/chapter-02\|Chapter 2: Ontology, Epistemology, Causality, and Emergence[^1]]], [[chapters/introduction\|Introduction]], [[glossary\|Glossary]] | — |
 | Caroline | 1 edit | [[chapters/introduction\|Introduction]] | [#13](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/13) |
+| confused4now ([GitHub](https://github.com/confused4now)) | 7 edits | [[chapters/introduction\|Introduction]] | [#41](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/41) [#42](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/42) [#44](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/44) [#45](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/45) [#50](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/50) [#51](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/51) [#52](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/52) |
 | zs | 1 edit | [[chapters/introduction\|Introduction]] | [#3](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/3) |
 
 ## By page
 
+<a id="page-chapters-chapter-01"></a>
+
+**[[chapters/chapter-01\|Chapter 1: Introduction to Ontological Analysis in Social Research]]**: Brandon Sommer and Caroline Laschkolnig
+
+<a id="page-chapters-chapter-02"></a>
+
+**[[chapters/chapter-02\|Chapter 2: Ontology, Epistemology, Causality, and Emergence[^1]]]**: Brandon Sommer and Caroline Laschkolnig
+
 <a id="page-chapters-introduction"></a>
 
-**[[chapters/introduction\|Introduction]]**: Caroline and zs
+**[[chapters/introduction\|Introduction]]**: Brandon Sommer and Caroline Laschkolnig, Caroline, confused4now and zs
+
+<a id="page-glossary"></a>
+
+**[[glossary\|Glossary]]**: Brandon Sommer and Caroline Laschkolnig
 
 ## How credit works
 
