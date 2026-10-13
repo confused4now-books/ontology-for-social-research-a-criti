@@ -13,37 +13,24 @@ The book names no editors.
 
 ## Contributors
 
-4 people have contributed so far.
+3 people have contributed so far.
 
 | Contributor | Contributions | Pages | References |
 | --- | --- | --- | --- |
-| Brandon Sommer and Caroline Laschkolnig | 407 commits | [[chapters/chapter-01\|Chapter 1: Introduction to Ontological Analysis in Social Research]], [[chapters/chapter-02\|Chapter 2: Ontology, Epistemology, Causality, and Emergence[^1]]], [[chapters/introduction\|Introduction]], [[glossary\|Glossary]] | — |
 | Caroline | 1 edit | [[chapters/introduction\|Introduction]] | [#13](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/13) |
 | confused4now ([GitHub](https://github.com/confused4now)) | 7 edits | [[chapters/introduction\|Introduction]] | [#41](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/41) [#42](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/42) [#44](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/44) [#45](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/45) [#50](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/50) [#51](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/51) [#52](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/52) |
 | zs | 1 edit | [[chapters/introduction\|Introduction]] | [#3](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/3) |
 
 ## By page
 
-<a id="page-chapters-chapter-01"></a>
-
-**[[chapters/chapter-01\|Chapter 1: Introduction to Ontological Analysis in Social Research]]**: Brandon Sommer and Caroline Laschkolnig
-
-<a id="page-chapters-chapter-02"></a>
-
-**[[chapters/chapter-02\|Chapter 2: Ontology, Epistemology, Causality, and Emergence[^1]]]**: Brandon Sommer and Caroline Laschkolnig
-
 <a id="page-chapters-introduction"></a>
 
-**[[chapters/introduction\|Introduction]]**: Brandon Sommer and Caroline Laschkolnig, Caroline, confused4now and zs
-
-<a id="page-glossary"></a>
-
-**[[glossary\|Glossary]]**: Brandon Sommer and Caroline Laschkolnig
+**[[chapters/introduction\|Introduction]]**: Caroline, confused4now and zs
 
 ## How credit works
 
 - **Authors** wrote the book or a chapter, and **editors** edited it. Both are named on the pages they worked on, and both are in every citation: a chapter is cited by its authors, with the book's editors as the book's; a book with editors and no authors of its own is cited by its editors.
-- **Contributors** are readers whose work the authors accepted: an edit proposed with *Edit this page* and merged, a note to the authors or a suggested edit the authors acted on, or an edit by one of the book's team in the author site. Each is thanked at the foot of the pages they changed and listed here. Contributors are not part of the citation.
+- **Contributors** are readers whose work the authors accepted: an edit proposed with *Edit this page* and merged, a note to the authors or a suggested edit the authors acted on, or an edit to a page's text by one of the book's team in the author site (a change to a page's credits or title alone isn't a contribution). Each is thanked at the foot of the pages they changed and listed here. Contributors are not part of the citation.
 - Something the authors decline earns no credit. Someone who sent a suggestion without signing in is credited by the name they gave.
 - To be left off this page, or to have two names counted as one person, ask the authors: they record it in `community/credit-overrides.yml`.
 
