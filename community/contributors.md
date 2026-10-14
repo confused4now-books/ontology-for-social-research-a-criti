@@ -13,15 +13,20 @@ The book names no editors.
 
 ## Contributors
 
-3 people have contributed so far.
+4 people have contributed so far.
 
 | Contributor | Contributions | Pages | References |
 | --- | --- | --- | --- |
+| BrandonAndCaroline ([GitHub](https://github.com/BrandonAndCaroline)) | 15 edits | [[chapters/chapter-01\|Chapter 1: Introduction to Ontological Analysis in Social Research]] | [#56](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/56) [#57](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/57) [#58](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/58) [#59](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/59) [#60](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/60) [#61](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/61) [#63](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/63) [#64](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/64) [#65](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/65) [#73](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/73) [#74](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/74) [#75](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/75) [#77](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/77) [#78](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/78) [#79](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/79) |
 | Caroline | 1 edit | [[chapters/introduction\|Introduction]] | [#13](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/13) |
 | confused4now ([GitHub](https://github.com/confused4now)) | 7 edits | [[chapters/introduction\|Introduction]] | [#41](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/41) [#42](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/42) [#44](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/44) [#45](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/45) [#50](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/50) [#51](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/51) [#52](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/52) |
 | zs | 1 edit | [[chapters/introduction\|Introduction]] | [#3](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/3) |
 
 ## By page
+
+<a id="page-chapters-chapter-01"></a>
+
+**[[chapters/chapter-01\|Chapter 1: Introduction to Ontological Analysis in Social Research]]**: BrandonAndCaroline
 
 <a id="page-chapters-introduction"></a>
 
