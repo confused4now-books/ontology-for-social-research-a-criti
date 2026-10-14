@@ -22,6 +22,81 @@
       ]
     },
     {
+      "name": "confused4now",
+      "github": "confused4now",
+      "counts": {
+        "edit": 7,
+        "note": 0,
+        "suggestion": 0,
+        "commit": 0
+      },
+      "contributions": [
+        {
+          "kind": "edit",
+          "ref": "#41",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/41",
+          "date": "2026-10-12",
+          "pages": [
+            "chapters/introduction.md"
+          ]
+        },
+        {
+          "kind": "edit",
+          "ref": "#42",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/42",
+          "date": "2026-10-12",
+          "pages": [
+            "chapters/introduction.md"
+          ]
+        },
+        {
+          "kind": "edit",
+          "ref": "#44",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/44",
+          "date": "2026-10-12",
+          "pages": [
+            "chapters/introduction.md"
+          ]
+        },
+        {
+          "kind": "edit",
+          "ref": "#45",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/45",
+          "date": "2026-10-12",
+          "pages": [
+            "chapters/introduction.md"
+          ]
+        },
+        {
+          "kind": "edit",
+          "ref": "#50",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/50",
+          "date": "2026-10-12",
+          "pages": [
+            "chapters/introduction.md"
+          ]
+        },
+        {
+          "kind": "edit",
+          "ref": "#51",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/51",
+          "date": "2026-10-12",
+          "pages": [
+            "chapters/introduction.md"
+          ]
+        },
+        {
+          "kind": "edit",
+          "ref": "#52",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/52",
+          "date": "2026-10-12",
+          "pages": [
+            "chapters/introduction.md"
+          ]
+        }
+      ]
+    },
+    {
       "name": "zs",
       "counts": {
         "edit": 1,
