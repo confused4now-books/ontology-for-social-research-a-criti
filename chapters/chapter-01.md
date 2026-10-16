@@ -1,5 +1,7 @@
 ---
 topic: "methods, social ontology, critical realism, social sciences"
+editors:
+  - "Elise Wester"
 ---
 
 # Chapter 1: Introduction to Ontological Analysis in Social Research
