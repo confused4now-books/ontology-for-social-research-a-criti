@@ -3,6 +3,8 @@ topic: "methods, social ontology, critical realism, social sciences"
 authors:
   - "Brandon Sommer"
   - "Caroline Laschkolnig"
+editors:
+  - "Elise Wester"
 ---
 
 # Ontology for Social Research: A Critical Introduction
