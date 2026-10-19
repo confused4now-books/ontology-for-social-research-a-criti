@@ -94,7 +94,7 @@ Nonetheless, this conception of causality also carries limitations. While causal
 
 ### 2.2.4 Contemporary Debates: Regularity, Intentionality, and Modal Theories
 
-Contemporary philosophy of causality has developed three broad approaches that attempt to address the limitations of the historical stances that have just been examined. These approaches are connected to different ontologies of time and space, and those assumptions shape how they explain social phenomena in terms of *why* things happen.
+Contemporary philosophy of causality has developed three broad approaches that attempt to address the limitations of the historical stances that have just been examined. These approaches are connected to different ontological positions of time and space, and those assumptions shape how they explain social phenomena in terms of *why* things happen.
 
 #### 2.2.4.1 Regularity Theories
 
