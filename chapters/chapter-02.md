@@ -60,6 +60,7 @@ Having established the relationship that runs from ontology through meta-theory 
 
 ### 2.2.1 Mechanical and Mathematical Causality – Descartes and Newton
 
+
 Early modern science redefined the concept of causality by replacing ancient purpose-based (or teleological) explanations (Aristotle) with mechanical explanations. In mechanical philosophy, associated with Descartes (see Chapter 1), causal relations involve the direct interactions determined by necessity: objects transmit motions through contact; thus, the world is conceived as a system of interacting parts, operating according to deterministic laws. Therefore, if all initial conditions and laws would be known, then any future state could be predicted with certainty. Causality is therefore deterministic (or necessary), based on physical interaction (Cohen, 1999).
 
 Newton extends this perspective by demonstrating that causal relationships can be expressed mathematically. For instance, gravity can be described through precise equations allowing accurate prediction of planetary motion, even if the underlying mechanism remained unknown. Causality thus became associated with law-governed regularity and predictive power. This achievement established that causal laws describing relationships between observable phenomena prove sufficient for scientific explanation even when underlying causal mechanisms remain unknown (Cohen, 1999).
