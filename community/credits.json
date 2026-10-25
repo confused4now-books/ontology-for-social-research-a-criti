@@ -25,7 +25,7 @@
       "name": "BrandonAndCaroline",
       "github": "BrandonAndCaroline",
       "counts": {
-        "edit": 23,
+        "edit": 29,
         "note": 0,
         "suggestion": 0,
         "commit": 0
@@ -234,6 +234,60 @@
           "ref": "#100",
           "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/100",
           "date": "2026-10-15",
+          "pages": [
+            "chapters/chapter-02.md"
+          ]
+        },
+        {
+          "kind": "edit",
+          "ref": "#103",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/103",
+          "date": "2026-10-19",
+          "pages": [
+            "chapters/chapter-02.md"
+          ]
+        },
+        {
+          "kind": "edit",
+          "ref": "#106",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/106",
+          "date": "2026-10-19",
+          "pages": [
+            "chapters/chapter-02.md"
+          ]
+        },
+        {
+          "kind": "edit",
+          "ref": "#107",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/107",
+          "date": "2026-10-19",
+          "pages": [
+            "chapters/chapter-02.md"
+          ]
+        },
+        {
+          "kind": "edit",
+          "ref": "#109",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/109",
+          "date": "2026-10-19",
+          "pages": [
+            "chapters/chapter-02.md"
+          ]
+        },
+        {
+          "kind": "edit",
+          "ref": "#110",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/110",
+          "date": "2026-10-19",
+          "pages": [
+            "chapters/chapter-02.md"
+          ]
+        },
+        {
+          "kind": "edit",
+          "ref": "#113",
+          "url": "https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/113",
+          "date": "2026-10-19",
           "pages": [
             "chapters/chapter-02.md"
           ]
