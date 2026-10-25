@@ -78,7 +78,7 @@ In response to Hume (who had awoken him from his "dogmatic slumber"), Kant prese
 
 ### 2.2.4 Contemporary Debates: Regularity, Intentionality, and Modal Theories
 
-Let us now move from the historical to the contemporary philosophy of causality has developed three broad approaches that attempt to address the limitations of the historical stances that have just been examined. These approaches are connected to different ontological positions of time and space, and those assumptions shape how they explain social phenomena in terms of *why* things happen.
+Let us now move from the historical to the contemporary philosophy of causality, which has developed three broad approaches that attempt to address the limitations of the previously discussed stances. These approaches are connected to different ontological positions of time and space, and those assumptions shape how they explain social phenomena in terms of *why* things happen.
 
 #### 2.2.4.1 Regularity Theories
 
