@@ -72,7 +72,7 @@ Now let us turn to a central critique of causality. Hume critiqued causal infere
 
 This meant that discovering laws and the general project of science was suddenly in question, as Hume's sceptical point was precisely that we cannot justify our inductive inferences from observed regularities to unobserved cases, because no logical argument can demonstrate that the future must resemble the past. The problem of induction, as it came to be known, is not a solution to the question of causation but actually the challenge to any confident causal claim (Hume, 1739/2000). What we can know, Hume concluded, is confined to what experience presents: the observed patterns of succession that form the practical basis of everyday and scientific reasoning, although there is absolutely no metaphysical guarantee underlying them.
 
-### 2.2.3 Causality as Category: Kant
+### 2.2.3 Causality as a Prebuilt Filter of the Mind: Kant
 
 Kant responded to Hume with a deeply influential argument: causality is not something we observe happening in the outside world (and falsely base predictions on), but something that makes experience possible in the first place. We cannot organize our perceptions without interpreting events as connected through cause and effect. Causality is therefore not derived from repeated observation but built into the way our minds, or more specifically our understanding, structure experience. In this sense, causality is a concept our understanding projects onto the world to make sense of it, leaving us in the dark about whether or not "real" objects (noumena) even have a relation of causality that is inherent to themselves.
 
