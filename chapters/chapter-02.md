@@ -76,7 +76,7 @@ This regularity conception carries important implications for how time and space
 
 Reducing causation to constant conjunction raises difficulties wherever regularities are unstable, conditional, or context-dependent, as they frequently are in social life. It was precisely this sceptical residue in Hume that motivated later philosophers to ask whether regularity is the most that can be said, or whether the underlying structure of causal relations demands a different kind of account.
 
-### 2.2.3 Causality as Category – Kant
+### 2.2.3 Causality as Category: Kant
 
 Kant responded to Hume with a deeply influential argument: causality is not something we observe happening in the outside world (and falsely base predictions on), but something that makes experience possible in the first place. We cannot organize our perceptions without interpreting events as connected through cause and effect. Causality is therefore not derived from repeated observation but built into the way our minds, or more specifically our understanding, structure experience. In this sense, causality is a concept our understanding projects onto the world to make sense of it, leaving us in the dark about whether or not "real" objects (noumena) even have a relation of causality that is inherent to themselves.
 
