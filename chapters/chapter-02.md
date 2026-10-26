@@ -104,9 +104,7 @@ Understanding causality in social research requires grappling with something tha
 
 Closed systems, approximated in laboratory experiments, allow for the isolation of a single causal mechanism by controlling for other factors. In such systems, causal mechanisms may generate constant conjunctions enabling prediction through deterministic laws. However, even natural systems outside laboratories operate as open systems where multiple mechanisms interact, making constant conjunctions exceptional rather than normal (Bhaskar, 1975; Collier, 1994).
 
-Let us consider some examples to illlustrate this in practice: when physicists study friction, they can approximate frictionless conditions enabling identification of laws governing motion. In a neighboring lab, the chemists may 
-
-When chemists study reactions, they can control temperature, pressure, and reactant purity enabling identification of reaction mechanisms.
+Let us consider some examples to illlustrate this in practice: when physicists study friction, they can approximate frictionless conditions enabling identification of laws governing motion. In a neighboring lab, the chemists may be studying various chemical reactions, around which they can control temperature, pressure, and reactant purity enabling identification of reaction mechanisms.
 
 Social systems operate as open systems par excellence because social phenomena involve multiple levels operating simultaneously (individuals, groups, institutions, cultures), multiple temporal scales (immediate interactions, cyclical patterns, long-term development), and multiple spatial scales (local practices, regional configurations, global processes). These mechanisms interact rather than operating in isolation, with effects depending on how mechanisms combine rather than following from any single factor alone (Archer, 1995).
 
