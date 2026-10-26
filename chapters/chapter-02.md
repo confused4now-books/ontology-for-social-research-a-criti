@@ -138,8 +138,6 @@ The account of emergence in section 2.3 establishes that collective properties c
 
 What follows in Part II applies these conceptual foundations to the four social ontological debates. Each debate surfaces a dimension along which ontological commitments must be made explicit, and each requires the researcher to work through the implications of their commitments at the level of causality and emergence before methodological questions can be coherently addressed. The call to make ontology explicit is not a demand for philosophical comprehensiveness; it is a condition for methodological coherence.
 
-## Footnotes
-
 ## References
 
 Anscombe, G. E. M. (1957). *Intention*. Basil Blackwell.
