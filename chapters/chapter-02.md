@@ -102,7 +102,7 @@ Critical realism develops this view by distinguishing between causal powers that
 
 Understanding causality in social research requires grappling with something that was already hinted at before: it is what critical realists call the open systems problem. It describes that social reality differs fundamentally from closed experimental systems because multiple causal mechanisms operate simultaneously, making constant conjunctions rare and explanation through statistical regularities inadequate. This problem connects directly to the ontology of time and space examined earlier, as open systems involve emergent properties and are operating across temporal scales and spatial levels that cannot be reduced to event regularities observable at particular moments (Bhaskar, 1975; Collier, 1994).
 
-**Closed systems**, approximated in laboratory experiments, allow for the isolation of a single causal mechanism by controlling for other factors. In such systems, causal mechanisms may generate constant conjunctions enabling prediction through deterministic laws. However, even natural systems outside laboratories operate as open systems where multiple mechanisms interact, making constant conjunctions exceptional rather than normal (Bhaskar, 1975; Collier, 1994).
+**Closed systems*, approximated in laboratory experiments, allow for the isolation of a single causal mechanism by controlling for other factors. In such systems, causal mechanisms may generate constant conjunctions enabling prediction through deterministic laws. However, even natural systems outside laboratories operate as open systems where multiple mechanisms interact, making constant conjunctions exceptional rather than normal (Bhaskar, 1975; Collier, 1994).
 
 Example:
 
