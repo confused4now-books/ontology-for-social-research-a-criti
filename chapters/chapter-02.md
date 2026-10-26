@@ -122,7 +122,6 @@ The debate between emergence and reduction is not merely philosophical; it direc
 
 If, however, emergent properties are real and causally efficacious, then explanation must proceed at multiple levels simultaneously, and reduction to individual-level mechanisms will systematically miss what is causally most significant. The three approaches examined in the following sections represent distinct positions within this debate, each carrying consequences for how causality, time, and space are understood.
 
-Three fundamental approaches structure contemporary debates: reductionist approaches denying emergence and treating causality as constant conjunction; agent-focused approaches emphasizing subjective experience and intentionality; and structuralist approaches integrating persistent structures with immediate agency through modal accounts of causal powers. Each approach embeds commitments about the ontology of time and space, and appropriate methodology.
 
 ### 2.3.3 Structuralist Approaches: Integrating Persistence with Agency Through Modal Causality
 
