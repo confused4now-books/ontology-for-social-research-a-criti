@@ -104,7 +104,6 @@ Understanding causality in social research requires grappling with something tha
 
 Closed systems, approximated in laboratory experiments, allow for the isolation of a single causal mechanism by controlling for other factors. In such systems, causal mechanisms may generate constant conjunctions enabling prediction through deterministic laws. However, even natural systems outside laboratories operate as open systems where multiple mechanisms interact, making constant conjunctions exceptional rather than normal (Bhaskar, 1975; Collier, 1994).
 
-Example:
 
 When physicists study friction, they can approximate frictionless conditions enabling identification of laws governing motion.
 
