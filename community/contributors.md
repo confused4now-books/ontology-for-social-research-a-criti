@@ -9,27 +9,39 @@
 
 ## Editors
 
-The book names no editors.
+- Elise Wester — [[chapters/chapter-01\|Chapter 1: Introduction to Ontological Analysis in Social Research]]
 
 ## Contributors
 
-2 people have contributed so far.
+6 people have contributed so far.
 
 | Contributor | Contributions | Pages | References |
 | --- | --- | --- | --- |
+| Alec Gordon | 1 edit | [[chapters/chapter-02\|Chapter 2: Ontology, Epistemology, Causality, and Emergence]] | — |
+| BrandonAndCaroline ([GitHub](https://github.com/BrandonAndCaroline)) | 29 edits | [[chapters/chapter-01\|Chapter 1: Introduction to Ontological Analysis in Social Research]], [[chapters/chapter-02\|Chapter 2: Ontology, Epistemology, Causality, and Emergence]], [[chapters/introduction\|Introduction]] | [#56](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/56) [#57](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/57) [#58](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/58) [#59](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/59) [#60](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/60) [#61](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/61) [#63](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/63) [#64](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/64) [#65](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/65) [#73](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/73) [#74](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/74) [#75](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/75) [#77](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/77) [#78](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/78) [#79](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/79) [#92](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/92) [#93](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/93) [#94](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/94) [#96](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/96) [#97](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/97) [#98](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/98) [#99](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/99) [#100](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/100) [#103](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/103) [#106](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/106) [#107](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/107) [#109](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/109) [#110](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/110) [#113](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/113) |
 | Caroline | 1 edit | [[chapters/introduction\|Introduction]] | [#13](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/13) |
+| confused4now ([GitHub](https://github.com/confused4now)) | 8 edits | [[chapters/introduction\|Introduction]] | [#36](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/36) [#41](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/41) [#42](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/42) [#44](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/44) [#45](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/45) [#50](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/50) [#51](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/51) [#52](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/52) |
+| JesperBoon ([GitHub](https://github.com/JesperBoon)) | 2 edits | [[chapters/chapter-01\|Chapter 1: Introduction to Ontological Analysis in Social Research]] | [#86](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/86) [#91](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/91) |
 | zs | 1 edit | [[chapters/introduction\|Introduction]] | [#3](https://github.com/confused4now-books/ontology-for-social-research-a-criti/pull/3) |
 
 ## By page
 
+<a id="page-chapters-chapter-01"></a>
+
+**[[chapters/chapter-01\|Chapter 1: Introduction to Ontological Analysis in Social Research]]**: BrandonAndCaroline and JesperBoon
+
+<a id="page-chapters-chapter-02"></a>
+
+**[[chapters/chapter-02\|Chapter 2: Ontology, Epistemology, Causality, and Emergence]]**: Alec Gordon and BrandonAndCaroline
+
 <a id="page-chapters-introduction"></a>
 
-**[[chapters/introduction\|Introduction]]**: Caroline and zs
+**[[chapters/introduction\|Introduction]]**: BrandonAndCaroline, Caroline, confused4now and zs
 
 ## How credit works
 
 - **Authors** wrote the book or a chapter, and **editors** edited it. Both are named on the pages they worked on, and both are in every citation: a chapter is cited by its authors, with the book's editors as the book's; a book with editors and no authors of its own is cited by its editors.
-- **Contributors** are readers whose work the authors accepted: an edit proposed with *Edit this page* and merged, a note to the authors or a suggested edit the authors acted on, or an edit by one of the book's team in the author site. Each is thanked at the foot of the pages they changed and listed here. Contributors are not part of the citation.
+- **Contributors** are readers whose work the authors accepted: an edit proposed with *Edit this page* and merged, a note to the authors or a suggested edit the authors acted on, or an edit to a page's text by one of the book's team in the author site (a change to a page's credits or title alone isn't a contribution). Each is thanked at the foot of the pages they changed and listed here. Contributors are not part of the citation.
 - Something the authors decline earns no credit. Someone who sent a suggestion without signing in is credited by the name they gave.
 - To be left off this page, or to have two names counted as one person, ask the authors: they record it in `community/credit-overrides.yml`.
 

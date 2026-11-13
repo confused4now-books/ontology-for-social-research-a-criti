@@ -15,7 +15,7 @@
 
 backend:
   name: github
-  repo: textbookproject2026-alt/ontology-for-social-research-a-criti
+  repo: confused4now-books/ontology-for-social-research-a-criti
 
   # =====================================================================
   # LOAD-BEARING LINE. Read this before touching it.
