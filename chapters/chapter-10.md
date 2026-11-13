@@ -1,4 +1,6 @@
+***This chapter is a work in progress****
 ---
+
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
