@@ -4,7 +4,7 @@
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
-# Chapter 11: Methods and Ontological Positioning
+# Chapter 11: Methods and Ontological Positioning | in progress
 
 ## 11.1 Introduction: From Ontological Requirements to Methodological Practice
 
