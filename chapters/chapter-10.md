@@ -4,7 +4,7 @@
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
-# Chapter 10: Designing Ontologically-Informed Research
+# Chapter 10: Designing Ontologically-Informed Research | in progress
 
 ## 10.1 Introduction: Aligning Research with the Architecture of Social Reality
 
