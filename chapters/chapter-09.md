@@ -2,7 +2,7 @@
 topic: "methods, social ontology, critical realism, social sciences"
 ---
 
-# Chapter 9: Time, Space, and Reduction in Social Research
+# Chapter 9: Time, Space, and Reduction in Social Research | in progress
 
 ## 9.1 Extending Ontological Foundations to Time, Space, and Reduction
 
